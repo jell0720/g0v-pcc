@@ -1,4 +1,11 @@
-將 http://web.pcc.gov.tw/tps/pss/tender.do?method=goSearch&searchMode=common&searchType=advance&searchTarget=ATM  搜尋得到的資料抓下來後放到 source, 執行 ruby parser.rb 會自動產生 JSON 與 YAML 的結果在對應的目錄中
+# 取得特定日期決標案網址 
 
-需要的 rubygem
-* nokogiri
+get_tender_urls_by_date.rb STARTDATE [ENDDATE]
+
+取得 2012-01-01 的決標案
+get_tender_urls_by_date 2012-01-01
+
+取得 2012-01-01 ~ 2012-01-31的決標案
+get_tender_urls_by_date 2012-01-01 2012-01-31
+
+

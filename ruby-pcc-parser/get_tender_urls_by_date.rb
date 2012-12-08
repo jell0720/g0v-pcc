@@ -5,12 +5,8 @@ require 'json'
 require 'date'
 
 def get_daily_tender_urls(date)
-  search_date = if date.year > 1911
-    our_date = Date.new(date.year - 1911, date.month, date.day)
-    our_date.strftime('%Y/%m/%d')[1..-1]
-  else
-    date.strftime('%Y/%m/%d')[1..-1]
-  end
+  search_year =  date.year > 1911 ? date.year - 1911 : date.year
+  search_date = "#{search_year}/#{date.strftime('%m')}/#{date.strftime('%d')}"
   puts search_date
 
   mechanize = Mechanize.new
@@ -39,8 +35,8 @@ def get_daily_tender_urls(date)
 
   end
 
-  puts "max_page: #{max_page}"
-  if max_page > 1
+  puts "max_page: #{max_page.to_i}"
+  if max_page && max_page > 1
     (2..max_page).each do |page_number|
       sleep rand(3)+rand(10)/10.0
       mechanize.get("http://web.pcc.gov.tw/tps/pss/tender\.do\?searchMode=common&searchType=advance&searchTarget=ATM&method=search&pageIndex=#{page_number}")
@@ -55,10 +51,24 @@ def get_daily_tender_urls(date)
   end
 
   FileUtils.mkdir_p('tender-urls')
+  tender_urls.uniq!
+  tender_urls.map!{ |url|
+   "http://web.pcc.gov.tw/tps/"+ url[3..-1]
+  }
   open(File.join('tender-urls', "#{date.strftime('%Y-%m-%d')}.json"),'w') do 
-    |f| f.write JSON.dump(tender_urls.uniq)
+    |f| f.write JSON.dump(tender_urls)
   end
 end
 
-get_daily_tender_urls( Date.parse(ARGV[0]) )
+start_date= Date.parse(ARGV[0])
+
+if ARGV[1]
+  end_date = Date.parse(ARGV[1])
+  (end_date - start_date + 1).to_i.times do |x|
+    get_daily_tender_urls( start_date+x )
+  end
+else
+  get_daily_tender_urls( Date.parse(ARGV[0]) )
+end
+
 

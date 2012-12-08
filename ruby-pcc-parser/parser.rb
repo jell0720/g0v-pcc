@@ -1,7 +1,9 @@
+#!/usr/bin/env ruby
 # encoding: utf-8
 require 'nokogiri'
 require 'yaml'
 require 'json'
+require 'fileutils'
 
 def t(node)
   if node
@@ -73,7 +75,8 @@ Dir.glob(ARGV[0]) do |source_path|
 
   end
   basname=File.basename(source_path)
-  puts json
-  #open(File.join('json', basname),'w'){|f| f.write(JSON.dump(json)) }
+  #puts json
+  FileUtils.mkdir_p('tenders-json')
+  open(File.join('tenders-json', basname),'w'){|f| f.write(JSON.dump(json)) }
   #open(File.join('yaml', basname),'w'){|f| f.write(YAML.dump(json)) }
 end
