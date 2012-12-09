@@ -2,14 +2,14 @@
 # encoding: utf-8
 require 'nokogiri'
 require 'yaml'
-require 'json'
+require 'yajl/json_gem'
 require 'fileutils'
 
 def t(node)
   if node
     text=node.text
-    text.gsub!('　',' ')
     text.gsub!(/[\n\r\t]/,'')
+    text.gsub!(/[　 ]+/,' ')
     text.strip! 
     return text 
   end
@@ -48,7 +48,8 @@ Dir.glob(ARGV[0]) do |source_path|
   keys=[]
   current_json=json
   rowspan=0
-  doc.css('table.tender_table > tbody > tr[class]').each do |tr|
+  doc.css('#printArea > table.tender_table > tbody > tr[class]').each do |tr|
+    next if t(tr) =~ /紅色字體表示此次更正公告與前次之差異/
     if rowspan > 0
       rowspan-=1 
     else
@@ -68,15 +69,19 @@ Dir.glob(ARGV[0]) do |source_path|
     elsif tr.css('table').length > 0
       current_json.merge! parse_inner_table( tr.css('table'))
     else
-      if t(tr.xpath("th")) != ''
-        current_json[t(tr.xpath("th"))] = t(tr.css("td").first)
+      th = t(tr.xpath("th"))
+      if th != ''
+        current_json[th] = t(tr.css("td").first)
       end
     end
 
   end
-  basname=File.basename(source_path)
+  procurement_data = json["採購資料"] || json["已公告資料"]
+  json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path)}&tenderCaseNo=#{procurement_data['標案案號']}"
   #puts json
-  FileUtils.mkdir_p('tenders-json')
-  open(File.join('tenders-json', basname),'w'){|f| f.write(JSON.dump(json)) }
-  #open(File.join('yaml', basname),'w'){|f| f.write(YAML.dump(json)) }
+  
+  result_file = File.join('tenders-json', source_path)
+  FileUtils.mkdir_p(File.dirname(result_file))
+  open("#{result_file}.json",'w'){|f| f.write(JSON.pretty_generate(json)) }
+  #open(File.join('yaml', result_file),'w'){|f| f.write(YAML.dump(json)) }
 end
