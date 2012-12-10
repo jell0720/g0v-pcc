@@ -1,0 +1,139 @@
+{
+  "機關資料": {
+    "機關代碼": "3.79.13",
+    "機關名稱": "臺北市政府警察局",
+    "單位名稱": "臺北市政府警察局",
+    "機關地址": "100臺北市中正區延平南路96號",
+    "聯絡人": "郭冠雄",
+    "聯絡電話": "(02)23119536",
+    "傳真號碼": "(02)23832803"
+  },
+  "已公告資料": {
+    "標案案號": "10148",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "01",
+    "標案名稱": "101年度個人電腦暨資訊軟體等設備採購案",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<財物類> 451 辦公室及會計機器，其零件及附件",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/04/17 15:00",
+    "採購金額級距": "公告金額以上未達查核金額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "",
+    "預算金額": "20,996,085元",
+    "是否受機關補助": "否",
+    "履約地點": "臺北市(非原住民地區)",
+    "履約地點（含地區）": "臺北市－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "3",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "01517124",
+        "廠商名稱": "國眾電腦股份有限公司",
+        "廠商名稱(英)": "LEO SYSTEMS,INC",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "114臺北市內湖區陽光街298號3樓",
+        "廠商地址(英)": "3F,NO.298,Yangguang St.,Neihu District, Taipei City 11491,Taiwan,R.O.C.",
+        "廠商電話": "(02)27996789 分機2638",
+        "決標金額": "17,480,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/04/18－101/08/31",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "70546428",
+        "廠商名稱": "永岱總業有限公司",
+        "廠商名稱(英)": "Yong Dai Co., Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3": {
+        "廠商代碼": "16764002",
+        "廠商名稱": "保祥企業有限公司",
+        "廠商名稱(英)": "Paul Cheung Enterprises Limited",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "101年度個人電腦暨資訊軟體等設備採購案",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "國眾電腦股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "17,480,000元",
+            "底價金額": "17,684,665元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "永岱總業有限公司",
+            "是否合格": "是",
+            "標價金額": "20,586,411元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2": {
+            "未得標廠商": "保祥企業有限公司",
+            "是否合格": "是",
+            "標價金額": "20,310,980元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "Taipei City Police Department",
+    "機關地址": "96,Yen-Ping S.Rd.,Taipei.Taiwan.",
+    "標案名稱": "PCs Procurement Service 2012",
+    "聯絡人": "Kuo Kuan hsiung",
+    "聯絡電話": "886-2-23119536",
+    "傳真號碼": "886-02-23832803",
+    "得標廠商1": " ",
+    "廠商代碼": "16764002",
+    "廠商名稱": "Paul Cheung Enterprises Limited",
+    "廠商地址": "3F,NO.298,Yangguang St.,Neihu District, Taipei City 11491,Taiwan,R.O.C.",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "附加說明": "Supplementary explanation:(1) Contractor documentation: Any company with a state-issued registration document, or one issued by an authorized agency, to verify its legality and whose business operation is related to computer & peripherals manufacturing (CC01110), computer equipment installation (E605010), computer & office machinery and equipment wholesaling (F113050), computer & office machinery and equipment retailing (F213030), computer software wholesaling and retailing (F118010, F218010), software design services (I301010) or data processing services (I301020). Collection in person:Time: Office hours from 9 a.m. to 12 p.m. and 2 p.m. to 5 p.m., from the date of public notice to submission deadline.Location: 2F, No. 96, Yanping S. Rd., Taipei City (General Affairs Sub-Division)Download: It is available from Government e-Procurement System (http://www.geps.gov.tw) and is to be printed out by the interested tenderer.Scenario of floor price: A floor price is set for this procurement case, but shall not be publically disclosed."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/04/17",
+    "決標公告日期": "101/04/19",
+    "是否刊登公報": "是",
+    "底價金額": "17,684,665元",
+    "底價金額是否公開": "是",
+    "總決標金額": "17,480,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "財物案",
+    "履約執行機關": "機關代碼：3.79.13機關名稱：臺北市政府警察局",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50663684&tenderCaseNo=10148"
+}

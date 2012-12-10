@@ -1,0 +1,154 @@
+{
+  "機關資料": {
+    "機關代碼": "3.13.20.17",
+    "機關名稱": "經濟部水利署第七河川局",
+    "單位名稱": "經濟部水利署第七河川局",
+    "機關地址": "900屏東縣屏東市建國路291號",
+    "聯絡人": "翁富章",
+    "聯絡電話": "(08)7745586 分機 586",
+    "傳真號碼": "(08)7552656"
+  },
+  "已公告資料": {
+    "標案案號": "M1010005",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "01",
+    "標案名稱": "高屏溪違規行為高莖作物強制改善計畫",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 97 其他服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/02/01 10:00",
+    "採購金額級距": "公告金額以上未達查核金額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "",
+    "預算金額": "7,000,000元",
+    "是否受機關補助": "否",
+    "履約地點": "屏東縣(非原住民地區)",
+    "履約地點（含地區）": "高雄市－全區,屏東縣－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "4",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "70948491",
+        "廠商名稱": "侑億企業行",
+        "廠商名稱(英)": "You Yi Chi Ye Hang Hang Shing Shing",
+        "是否得標": "否",
+        "組織型態": "商業登記"
+      },
+      "2": {
+        "廠商代碼": "80378293",
+        "廠商名稱": "勤潔環保服務企業有限公司",
+        "廠商名稱(英)": "Chin Jie Huan Bau Fu Wu Chi Ye You You Shian Gung Sz",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3": {
+        "廠商代碼": "12883581",
+        "廠商名稱": "冠達環保有限公司",
+        "廠商名稱(英)": "Guan Guan Da Huan Bau You You Shian Gung Sz",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "913屏東縣萬丹鄉廣安村廣安路185巷29號",
+        "廠商地址(英)": "No.29, Ln. 185, Guang’an Rd., Wandan Township, Pingtung County 913, Taiwan (R.O.C.)",
+        "廠商電話": "(08)7760004",
+        "決標金額": "4,210,755元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/02/07－101/11/30",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "4": {
+        "廠商代碼": "16806158",
+        "廠商名稱": "士誠營造有限公司",
+        "廠商名稱(英)": "Shr Cheng Ying Tazu You You Shian Gung Sz",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "高屏溪違規行為高莖作物強制改善計畫",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "冠達環保有限公司",
+            "預估需求數量": "1",
+            "決標金額": "4,210,755元",
+            "底價金額": "5,600,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "侑億企業行",
+            "是否合格": "是",
+            "標價金額": "4,540,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2": {
+            "未得標廠商": "勤潔環保服務企業有限公司",
+            "是否合格": "是",
+            "標價金額": "4,276,500元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "3": {
+            "未得標廠商": "士誠營造有限公司",
+            "是否合格": "是",
+            "標價金額": "5,291,403元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "Seventh River Management Office,WRA,MOEA",
+    "機關地址": "No.291, Jianguo Rd., Pingtung City, Pingtung County 900, Taiwan (R.O.C.)",
+    "標案名稱": "Kaoping violations tall crops mandatory improvement plan",
+    "聯絡人": "ZENG XIN-XIAN",
+    "聯絡電話": "886-8-7745545",
+    "傳真號碼": "886-08-7552656",
+    "未得標廠商1": " ",
+    "廠商代碼": "16806158",
+    "廠商名稱": "Shr Cheng Ying Tazu You You Shian Gung Sz",
+    "未得標廠商2": " ",
+    "得標廠商1": " ",
+    "廠商地址": "No.29, Ln. 185, Guang’an Rd., Wandan Township, Pingtung County 913, Taiwan (R.O.C.)",
+    "未得標廠商3": " ",
+    "附加說明": "1. When the documentation is purchased in person, tenderers shall check the documentation right away, and requests for amendment or supplements shall be made immediately if any page is missing or the seal designated for tender invitation is absent. For mail orders, tenderers shall request amendment or supplements prior to the closing date at the entity where the documentation was purchased. Otherwise, the tender forms submitted will be deemed invalid. Any objection shall be handled pursuant to the Government Procurement Act.2. The tender forms downloaded from the Internet are deemed invalid when submitted without a hard copy form of the electronic certificate (of which the serial number must not be repeated) if the explanation provided by the supplier upon notification is considered unreasonable by the entity, or if they are missing the seal of the Management Section, Seventh River Management Office, WRA, MOEA.3. Tender documents shall be sealed and delivered to the Office by mail or in person prior to the submission deadline.4. Notices on release of the bid bond: (1) Please refer to the Bidding Instructions for Engineering Project Procurement and associated appendixes published by the Water Resources Agency; (2) The note shall be payable to the Seventh River Management Office, WRA, MOEA; (3) For cash payment, please transfer the payment to the bid bond account of the Office (302 Special Account of Seventh River Management Office, WRA, MOEA) at the Bank of Taiwan Pingtung Branch (account no. 017-036-03058-8), and put a receipt copy into the certificate envelope or submit the copy at the venue (the bid bond can’t be released until within five days of tender opening for this payment option); no cash payment is accepted at the venue.5. Please refer to the Bidding Instructions for Engineering Project Procurement published by the Water Resources Agency for required certificates. Photocopies that are the same as the original certificates shall be submitted; otherwise, the tender forms will be invalided.6. For any interpretation questions or concerns about violation of laws in regard to the content of the tender documentation, please submit a written form to the Seventh River Management Office four days before tenders are opened. Late submissions will not be accepted.7. Please see the Supplementary Construction Instructions for the total amount of performance bond required.8. The Office may announce postponement of the contract award for tenderers who meet the principle of contract award and wait until legal budgeting procedures have been completed before awarding the contract.9. To report any illegal conduct by entities, please e-mail a complaint to the Procurement Supervision Unit of MOEA at ps.unit@moea.gov.tw, or contact the Water Resources Agency at P. O. Box 47-7, Taichung or 04-22501578."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/02/01",
+    "決標公告日期": "101/03/06",
+    "是否刊登公報": "是",
+    "底價金額": "5,600,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "4,210,755元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "勞務案",
+    "履約執行機關": "機關代碼：3.13.20.17機關名稱：經濟部水利署第七河川局",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50631656&tenderCaseNo=M1010005"
+}

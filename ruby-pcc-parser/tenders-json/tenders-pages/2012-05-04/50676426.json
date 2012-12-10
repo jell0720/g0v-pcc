@@ -1,0 +1,123 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.18",
+    "機關名稱": "交通部臺灣鐵路管理局",
+    "單位名稱": "材料處",
+    "機關地址": "100臺北市中正區北平西路3號5樓",
+    "聯絡人": "材料處張小姐/主辦高雄機廠",
+    "聯絡電話": "(02)23815226 分機 4902",
+    "傳真號碼": "(02)23313267"
+  },
+  "已公告資料": {
+    "標案案號": "PS01011V",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "02",
+    "標案名稱": "高雄機廠客車三級檢修勞務外包",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 61 機動車輛及機器腳踏車銷售、維修服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/05/03 14:30",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "",
+    "預算金額": "33,826,847元",
+    "是否受機關補助": "否",
+    "履約地點": "高雄市(非原住民地區)",
+    "履約地點（含地區）": "高雄市－鳳山區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "2",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "86981299",
+        "廠商名稱": "秦陽機械股份有限公司",
+        "廠商名稱(英)": "Ching Yang Machinery Ltd. Co.",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "926屏東縣南州鄉溪北村勝利路120號",
+        "廠商地址(英)": "No.,120. Schengli Rd., Nanzhou Township, Pingtung County Taiwan.",
+        "廠商電話": "(08)8645433",
+        "決標金額": "25,734,034元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/05/18－103/01/31",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "89431214",
+        "廠商名稱": "申龍工程有限公司",
+        "廠商名稱(英)": "Shunglong engineering Ltd, Co.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "高雄機廠客車三級檢修勞務外包",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "秦陽機械股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "25,734,034元",
+            "底價金額": "27,988,670元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "申龍工程有限公司",
+            "是否合格": "否",
+            "標價金額": "25,339,684元",
+            "未得標原因": "資格文件未附或不符合規定",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "TAIWAN RAILWAY ADMINISTRATION, MINISTRY OF TRANSPORTATION AND COMMUNICATIONS",
+    "機關地址": "No.3,Beiping W.Rd.,Taipei City,Taiwan R.O.C.",
+    "標案名稱": "I.Project name: Labor Outsourcing for 3rd Class Passenger Car Inspection of Kaohsiung Depot",
+    "聯絡人": "Chang,shiou-yu",
+    "聯絡電話": "886-2-23815226 Ext 4902",
+    "傳真號碼": "886-02-23313267",
+    "得標廠商1": " ",
+    "廠商代碼": "89431214",
+    "廠商名稱": "Shunglong engineering Ltd, Co.",
+    "廠商地址": "No.,120. Schengli Rd., Nanzhou Township, Pingtung County Taiwan.",
+    "未得標廠商1": " ",
+    "附加說明": "1.Working duration: Labor Outsourcing for 3rd Class Passenger Car Inspection of Kaohsiung Depot2.Bidder qualification:A minimum of 180 cars shall be completely inspected from the date when the contract is signed to the end of January 2014, and the contract deadline may be extended to January 31, 2015 pursuant to Clause IV (B) of the instructions.3.Address for Obtaining Tender Documentation:Financial procurement section PURCHASING & STORE DEPARTMENT, Taiwan Railway AdministrationRoom.5075,5F, No.3 PEI-PING WEST ROAD,TAIPEI, TAIWAN. R.O.C(1)Financial procurement section PURCHASING & STORE DEPARTMENT, Taiwan Railway AdministrationRoom.5075,5F, No.3 PEI-PING WEST ROAD,TAIPEI, TAIWAN. R.O.C(2)Procurement Section of Northern Region Supply Workshop, TRANo.38, Fuyu 2nd St., Hualien City, Hualien County 970, Taiwan (R.O.C.)(3)Procurement Section of Central Region Supply Workshop, TRANo.115, Sec. 4, Fusing Rd., East District, Taichung City 401, Taiwan (R.O.C.)(4)Procurement Section of Southern Region Supply Workshop, TRANo.318, Jianguo 2nd"
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/05/03",
+    "決標公告日期": "101/05/04",
+    "是否刊登公報": "是",
+    "底價金額": "27,988,670元",
+    "底價金額是否公開": "是",
+    "總決標金額": "25,734,034元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "勞務案",
+    "履約執行機關": "機關代碼：3.15.18機關名稱：交通部臺灣鐵路管理局",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50676426&tenderCaseNo=PS01011V"
+}

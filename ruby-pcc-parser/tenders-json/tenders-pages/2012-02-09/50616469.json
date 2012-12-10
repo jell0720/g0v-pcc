@@ -1,0 +1,115 @@
+{
+  "機關資料": {
+    "機關代碼": "3.7.53",
+    "機關名稱": "財政部臺灣省北區國稅局",
+    "單位名稱": "財政部臺灣省北區國稅局",
+    "機關地址": "330桃園縣桃園市三元街156號",
+    "聯絡人": "溫文鑑",
+    "聯絡電話": "(03)3396789 分機 1827",
+    "傳真號碼": "(03)3396589"
+  },
+  "已公告資料": {
+    "標案案號": "100102",
+    "招標方式": "限制性招標(經公開評選或公開徵求)",
+    "決標方式": "準用最有利標",
+    "新增公告傳輸次數": "01",
+    "標案名稱": "101至103年度課稅資料委外建檔採購案",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 84 電腦及相關服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/01/05 14:30",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "限制性招標依據之法條": "採購法第22條第1項第9款",
+    "預算金額是否公開": "",
+    "預算金額": "52,431,000元",
+    "是否受機關補助": "否",
+    "履約地點": "桃園縣(非原住民地區)",
+    "履約地點（含地區）": "基隆市－全區,新北市－全區,宜蘭縣－全區,新竹市,新竹縣－全區,桃園縣－全區,花蓮縣－全區,金門縣－全區,連江縣－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "1",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "18873104",
+        "廠商名稱": "財團法人台灣地理資訊中心",
+        "廠商名稱(英)": "Taiwan Geographic Information System Center",
+        "是否得標": "是",
+        "組織型態": "財團法人(不含學校)",
+        "廠商資格": "其他",
+        "廠商地址": "100臺北市中正區羅斯福路1段7號6樓",
+        "廠商地址(英)": "6F 7 Roosevelt Road Sec.1, Taipei 10092, Taiwan",
+        "廠商電話": "(02)23931122 分機833",
+        "決標金額": "44,850,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "否，預估分包予中小企業之金額 0 元",
+        "履約起迄日期": "101/01/17－104/04/30",
+        "雇用員工總人數是否 超過100人": "是",
+        "僱用員工總 人數": "132",
+        "已僱用原住民 人數": "2",
+        "已僱用身心障礙者 人數": "1"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "101至103年度課稅資料委外建檔採購案",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "財團法人台灣地理資訊中心",
+            "參與評選": "是",
+            "評選序位或總評分": "1",
+            "預估需求數量": "1",
+            "決標金額": "44,850,000元",
+            "底價金額": "44,850,000元"
+          }
+        }
+      }
+    }
+  },
+  "最有利標": {
+    "項次出席會議姓名職業": null,
+    "": "7"
+  },
+  "英文公告": {
+    "機關名稱": "National Tax Administration of the Northern Taiwan Province, MOF",
+    "機關地址": "156, Shangyuan St.,Tao-Yuan",
+    "標案名稱": "2012-2014 Tax Information Entry Outsourcing Service",
+    "聯絡人": "Wen, wen-chien",
+    "聯絡電話": "886-3-3396789 Ext 1827",
+    "傳真號碼": "886-03-3396589",
+    "得標廠商1": " ",
+    "廠商代碼": "18873104",
+    "廠商名稱": "Taiwan Geographic Information System Center",
+    "廠商地址": "6F 7 Roosevelt Road Sec.1, Taipei 10092, Taiwan",
+    "附加說明": "Tender Basic Qualification 1.Proof of Company registration or establishment of the supplier, such as certificate of company registration or commercial registration, certificate of establishment or business registration, factory registration certificate, industry registration certificate, practicing license.2. Proof of tax payment of the supplier, which shall be a business tax payment receipt or the latest sales revenue and tax report approved and affixed with an official seal by the responsible tax-assessing authority. If the supplier is unable to provide the most recent certifying documents in time, the tax payment receipt of the immediate preceding period may be used in replacement. Newly established suppliers who have not reached the time limit for filing their first tax payment may use, as a replacement, the approval letter of business establishment issued by the responsible business tax-assessing authority and the relevant documents in relation to their application for the purchase of uniformed invoices.3.Proof of credibility of a supplier, such as the proof, issued by a clearing house or a financial institution within the last 6 months before the deadline for tendering, that the supplier is not a debarred customer, and the proof of the recent 3 years concerning record of no bouncing check. Tender Special Qualification1.Suppliers must be well-experienced or possessing actual achievements. The scope may include contracts of completing data entry within five years before the deadline for tendering. The single contract amount was over 4 million NT dollars or the accumulated contract amount was over 30 million NT dollars, suppliers should provide the inspection and acceptance certificate by the procuring entity or other proof with contract amount and copy of contract.2. Suppliers must have substantial equipments with affidavit. The equipments include more than 30 of those of Chinese-English data entry and at least 1 media transcoding equipment. Where the suppliers do not possess those equipments themselves, they may instead submit a proof of lease, lease commitment, purchase, or purchase commitment after being awarded with contract.3. Suppliers must employ substantial manpower, including at least 30 entry staff, 1 programmer and 2 administrators with proof of health and labor insurance or the affidavit by the suppliers.Others1.Bidder statement for government procurement is requirement for making a tender.2. Suppliers should prepare letter of authorization and identification of authorized person and arrive the tender opening location at the designated time.3. Suppliers should supply 1 bidding documentation, 16 service proposals and 2 compact discs. The briefing is presented according to the order of bidding. Please bring notebooks to the tender opening location and test them in advance.4. Suppliers should submit the Check Bid Bond Consent.5. Please refer to the Tender Notice, Request for Proposal and Contract for more details.6.Electronic receipt of tender documentation through internet; the website: http://web.pcc.gov.tw7.In accordance to environmental protection policy, please prepare the green cups."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/01/17",
+    "決標公告日期": "101/02/09",
+    "是否刊登公報": "是",
+    "底價金額": "44,850,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "44,850,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "勞務案",
+    "履約執行機關": "機關代碼：3.7.53機關名稱：財政部臺灣省北區國稅局",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50616469&tenderCaseNo=100102"
+}

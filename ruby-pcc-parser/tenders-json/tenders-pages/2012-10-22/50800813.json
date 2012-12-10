@@ -1,0 +1,205 @@
+{
+  "機關資料": {
+    "機關代碼": "3.3.7",
+    "機關名稱": "駐芝加哥辦事處",
+    "單位名稱": "駐芝加哥台北經濟文化辦事處",
+    "機關地址": "180 North Stetson Avenue, Suite# 5701, Chicago, IL 60601",
+    "聯絡人": "麥發強",
+    "聯絡電話": "(312)6160100 分機 337",
+    "傳真號碼": "(312)6161486"
+  },
+  "已公告資料": {
+    "標案案號": "CHI20120701",
+    "招標方式": "公開招標",
+    "決標方式": "最有利標",
+    "新增公告傳輸次數": "01",
+    "標案名稱": "招聘購置駐芝加哥台北經濟文化辦事處新址仲介及專案管理服務",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 82 不動產服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/08/24 16:45",
+    "採購金額級距": "未達公告金額",
+    "是否適用條約或協定之採購": "否",
+    "預算金額是否公開": "是",
+    "預算金額": "20,000元",
+    "是否受機關補助": "否",
+    "履約地點": "其他",
+    "履約地點（含地區）": "其他－其他",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：本案為海外採購，不宜採用主管機關訂定之範本。",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "7",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "201207001",
+        "廠商名稱": "Studley",
+        "廠商名稱(英)": "Studley",
+        "是否得標": "是",
+        "組織型態": "其他",
+        "廠商資格": "其他",
+        "廠商地址": "191 North Wacker Drive, Suite 2700, Chicago, IL 60606",
+        "廠商地址(英)": "191 North Wacker Drive, Suite 2700, Chicago, IL 60606",
+        "廠商電話": "(312)5952900",
+        "決標金額": "0元",
+        "得標廠商國別": "美國(USA)",
+        "原產地國別": "美國(USA)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/09/16－102/09/15",
+        "雇用員工總人數是否 超過100人": "是",
+        "僱用員工總 人數": "1500",
+        "已僱用原住民 人數": "0",
+        "已僱用身心障礙者 人數": "0"
+      },
+      "2": {
+        "廠商代碼": "201207002",
+        "廠商名稱": "United Commercial Real Estate Partners",
+        "廠商名稱(英)": "United Commercial Real Estate Partners",
+        "是否得標": "否",
+        "組織型態": "其他"
+      },
+      "3": {
+        "廠商代碼": "201207003",
+        "廠商名稱": "Jones Lang LaSalle",
+        "廠商名稱(英)": "Jones Lang LaSalle",
+        "是否得標": "否",
+        "組織型態": "其他"
+      },
+      "4": {
+        "廠商代碼": "201207004",
+        "廠商名稱": "Cushman & Wakefield",
+        "廠商名稱(英)": "Cushman & Wakefield",
+        "是否得標": "否",
+        "組織型態": "其他"
+      },
+      "5": {
+        "廠商代碼": "201207005",
+        "廠商名稱": "Colliers International",
+        "廠商名稱(英)": "Colliers International",
+        "是否得標": "否",
+        "組織型態": "其他"
+      },
+      "6": {
+        "廠商代碼": "201207006",
+        "廠商名稱": "STEINCO Corporate Real Estate Advisors",
+        "廠商名稱(英)": "STEINCO Corporate Real Estate Advisors",
+        "是否得標": "否",
+        "組織型態": "其他"
+      },
+      "7": {
+        "廠商代碼": "201207007",
+        "廠商名稱": "CBRE",
+        "廠商名稱(英)": "CBRE",
+        "是否得標": "否",
+        "組織型態": "其他"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "招聘購置駐芝加哥台北經濟文化辦事處新址仲介及專案管理服務",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "否",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "Studley",
+            "參與評選": "是",
+            "評選序位或總評分": "1",
+            "預估需求數量": "1",
+            "決標金額": "0元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "United Commercial Real Estate Partners",
+            "參與評選": "是",
+            "評選序位或總評分": "5",
+            "是否合格": "是",
+            "標價金額": "0元",
+            "未得標原因": "資格、規格合於招標文件但非最有利標或最優勝廠商"
+          },
+          "2": {
+            "未得標廠商": "Jones Lang LaSalle",
+            "參與評選": "是",
+            "評選序位或總評分": "3",
+            "是否合格": "是",
+            "標價金額": "0元",
+            "未得標原因": "資格、規格合於招標文件但非最有利標或最優勝廠商"
+          },
+          "3": {
+            "未得標廠商": "Cushman & Wakefield",
+            "參與評選": "否",
+            "是否合格": "否",
+            "未得標原因": "審標不合格且未得標之其他原因 ：未依規定附上證照文件"
+          },
+          "4": {
+            "未得標廠商": "Colliers International",
+            "參與評選": "否",
+            "是否合格": "否",
+            "未得標原因": "規格文件未附或不符合規定"
+          },
+          "5": {
+            "未得標廠商": "STEINCO Corporate Real Estate Advisors",
+            "參與評選": "是",
+            "評選序位或總評分": "2",
+            "是否合格": "是",
+            "標價金額": "0元",
+            "未得標原因": "資格、規格合於招標文件但非最有利標或最優勝廠商"
+          },
+          "6": {
+            "未得標廠商": "CBRE",
+            "參與評選": "是",
+            "評選序位或總評分": "4",
+            "是否合格": "是",
+            "標價金額": "0元",
+            "未得標原因": "資格、規格合於招標文件但非最有利標或最優勝廠商"
+          }
+        }
+      }
+    }
+  },
+  "最有利標": {
+    "項次出席會議姓名職業": null,
+    "": "6"
+  },
+  "英文公告": {
+    "機關名稱": "Taipei Economic and Cultural Office in Chicago",
+    "機關地址": "Two Prudential Plaza 57&58 floor, 180 North Stetson Avenue, Chicago, IL 60601",
+    "標案名稱": "Request for Proposals for Real Estate Broker Services",
+    "聯絡人": "Stan Mak",
+    "聯絡電話": "312-616-0100 Ext 337",
+    "傳真號碼": "312-616-1486",
+    "得標廠商1": " ",
+    "廠商代碼": "201207007",
+    "廠商名稱": "CBRE",
+    "廠商地址": "191 North Wacker Drive, Suite 2700, Chicago, IL 60606",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "未得標廠商3": " ",
+    "未得標廠商4": " ",
+    "未得標廠商5": " ",
+    "未得標廠商6": " ",
+    "附加說明": "SCOPE OF SERVICESThe successful firm shall agree to contract with the TECO in Chicago to provide the following:* Services required involve performing market analysis,* Developing strategies for purchase of property,* Negotiating with sellers on behalf of the TECO in Chicago,* Coordinating real estate appraisals,* Coordinating real estate transaction closings, and* Handling all other customary activities and services associated with real estate transactions.Services may include consultation with staffs of TECO in Chicago relating to the purchase of property. Presentations at related meetings may be required.BROKER'S QUALIFICATIONSRespondents to this RFP shall have the following qualifications:* Must be licensed and in good standing with the State of Illinois.* Must have an excellent reputation in the real estate community.* Must be knowledgeable in the local real estate market and have experience with small and large commercial properties.* Must be knowledgeable in the use of all public real estate records.All the respondents must remain current and not be in default of my obligations due the State of Illinois including, but not limited to, the payment of taxes, fines, penalties, licenses or other monies due to the State of Illinois.Any questions regarding this Request for proposals should be directed to Mr. Stan Mak (Tel: 312-6160100 ext.337) or e-mailed to stanmak@tecochicago.org"
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/08/24",
+    "決標公告日期": "101/10/22",
+    "是否刊登公報": "是",
+    "總決標金額": "0元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "無預算",
+    "履約執行機關": "機關代碼：3.3.7機關名稱：駐芝加哥辦事處",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50800813&tenderCaseNo=CHI20120701"
+}

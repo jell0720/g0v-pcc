@@ -1,0 +1,123 @@
+{
+  "機關資料": {
+    "機關代碼": "3.97.25",
+    "機關名稱": "高雄市政府水利局",
+    "單位名稱": "高雄市政府水利局",
+    "機關地址": "830高雄市鳳山區光復路二段132號",
+    "聯絡人": "防洪維護工程科-陳宣印",
+    "聯絡電話": "(07)3215929",
+    "傳真號碼": "(07)3113041"
+  },
+  "已公告資料": {
+    "標案案號": "C1010418",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "02",
+    "標案名稱": "101年度高雄市移動式抽水機採購",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<財物類> 431 引擎, 渦輪及其零件",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/07/03 10:00",
+    "採購金額級距": "公告金額以上未達查核金額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "30,000,000元",
+    "是否受機關補助": "否",
+    "履約地點": "高雄市(非原住民地區)",
+    "履約地點（含地區）": "高雄市－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "2",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "52657203",
+        "廠商名稱": "泉溢電機工廠股份有限公司",
+        "廠商名稱(英)": "Chuan Yi Electric Machinery Works Co., Ltd",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "402臺中市南區福興里五權南路175號1樓",
+        "廠商地址(英)": "1F., No.175, Wuquan S. Rd., South Dist., Taichung City 402, Taiwan (R.O.C.)",
+        "廠商電話": "(04)22627171",
+        "決標金額": "27,560,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/07/10－101/12/10",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "69517516",
+        "廠商名稱": "南和機電工業有限公司",
+        "廠商名稱(英)": "nanhortw Electric Co., Ltd",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "101年度高雄市移動式抽水機採購",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "泉溢電機工廠股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "27,560,000元",
+            "底價金額": "27,680,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "南和機電工業有限公司",
+            "是否合格": "是",
+            "標價金額": "29,200,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "Hydraulic Engineering Bureau",
+    "機關地址": "80203 5F., No.2, Sihwei 3rd Rd., Public Work Bureau, Kaohsiung City 802, Taiwan",
+    "標案名稱": "aohsiung City 101 year To purchase the Self-Priming Pump case",
+    "聯絡人": "Syuan Yin Chen",
+    "聯絡電話": "886-7-3215929",
+    "傳真號碼": "886-07-3113041",
+    "得標廠商1": " ",
+    "廠商代碼": "69517516",
+    "廠商名稱": "nanhortw Electric Co., Ltd",
+    "廠商地址": "1F., No.175, Wuquan S. Rd., South Dist., Taichung City 402, Taiwan (R.O.C.)",
+    "未得標廠商1": " ",
+    "附加說明": "[Way and place to receive the tender documents]:1. To receive the tender documents and the working face of share bids received for two ways, a postal money order a limited number receive a case of tender documents. 2. Face until purchased by the closing date of announcement before the deadline, hold postal money order to the Water Conservancy Bureau, Government Ethics Office Government contact the collar (please purchase early side, Without and bid at your own risk.) 3. Bids received: from \"Government e-procurement network,\" the Web site: http://web.pcc.gov.tw/ download tender documents. 4. Postal order discrepancies or overdue amount, or receive mode irregularities thereof inadmissible. 5. The deadline for receiving the tender documents for any reason the event closed by the government were scheduled by the deadline, extended to the first business day of the same cut-off time (the House without notice.) [Price and payment of tender documents]: 1. price for selling in person:NT500, the above are taken in cash or postal money order 』『 way for, and please specify: \"Water Conservancy Bureau, Kaohsiung City Government\" 2.price for selling on-site:NT250.[Other]: 1. Tendering content doubt: the contents of the tender documents the tenderer doubt on who should be so marked on the fourth (less than 1 in 1 days) before the deadline to request in writing delivered to the organs of the construction, the period from the announcement date; also doubts the authority of the tender closing time will not be over on or before the qualification deadline 1 adopted a written reply. (More details of the date of tender notice.) 2. Other details of the tender Notes Notes Notes and procurement requirements. 3. Opening time by order of the day number of the amount of opening of tenders. Kaohsiung City Government Procurement Supervision Unit: E-mail procure@kcg.gov.tw report Report Kaohsiung City Government Ethics Office Tel: (07) 0800025025, Fax: (07) 3313655 Flag-mail: PO Box 2299 Kaohsiung City Post, E-mail: eth@kcg.gov.tw. Address: 3 Road, Kaohsiung dimensional Lingya District No. 2, 2nd Floor."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/07/03",
+    "決標公告日期": "101/07/04",
+    "是否刊登公報": "是",
+    "底價金額": "27,680,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "27,560,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "財物案",
+    "履約執行機關": "機關代碼：3.97.25機關名稱：高雄市政府水利局",
+    "附加說明": "履約起迄日期為一概括值，實際以契約為主。"
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50723232&tenderCaseNo=C1010418"
+}

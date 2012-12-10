@@ -1,0 +1,183 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.25.1",
+    "機關名稱": "交通部公路總局第一區養護工程處",
+    "單位名稱": "工務課",
+    "機關地址": "238新北市樹林區中正路212號",
+    "聯絡人": "林東慶",
+    "聯絡電話": "(02)86875120",
+    "傳真號碼": "(02)26820862"
+  },
+  "已公告資料": {
+    "標案案號": "1001AA003126AC01",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "標案名稱": "台31線由台66線延伸至台1線第1B標新建工程（5K+100~6K+500）",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<工程類> 5131 快速道路(不含高架快速道路), 街道, 馬路, 鐵路及機場跑道",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/01/06 09:40",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "",
+    "預算金額": "448,300,000元",
+    "是否受機關補助": "否",
+    "履約地點": "桃園縣(非原住民地區)",
+    "履約地點（含地區）": "桃園縣－楊梅",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "是 4年5000億特別預算：448,300,000 元",
+    "歸屬計畫類別": "屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：依據上級機關(交通部公路總局)頒定之契約範本",
+    "是否屬災區重建工程": "否",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "6",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "30943914",
+        "廠商名稱": "華洲營造股份有限公司",
+        "廠商名稱(英)": "Hwa Chou Construction.Co.,Ltd.",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "營造業   營造業登記證號碼: A02001",
+        "廠商地址": "813高雄市左營區富國路185號15樓之2",
+        "廠商地址(英)": "15F.-2, No.185, Fuguo Rd., Zuoying Dist., Kaohsiung City 813, Taiwan (R.O.C.)",
+        "廠商電話": "(07)5561852",
+        "決標金額": "352,100,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/03/01－102/09/21",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "18517106",
+        "廠商名稱": "大安工程股份有限公司",
+        "廠商名稱(英)": "DA AN Construction.Co.,Ltd",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3": {
+        "廠商代碼": "16218996",
+        "廠商名稱": "廣鑫營造有限公司",
+        "廠商名稱(英)": "GUANG XIN Building Limited Company",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "4": {
+        "廠商代碼": "04267141",
+        "廠商名稱": "安倉營造股份有限公司",
+        "廠商名稱(英)": "AN CANG Construction.Co.,Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "5": {
+        "廠商代碼": "04976087",
+        "廠商名稱": "鼎宸營造有限公司",
+        "廠商名稱(英)": "DING CHEN Building Limited Company",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "6": {
+        "廠商代碼": "49772910",
+        "廠商名稱": "日泰營造有限公司",
+        "廠商名稱(英)": "RI TAI Building Limited Company",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "台31線由台66線延伸至台1線第1B標新建工程（5K+100~6K+500）",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "華洲營造股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "352,100,000元",
+            "底價金額": "396,700,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "大安工程股份有限公司",
+            "是否合格": "是",
+            "標價金額": "386,800,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2": {
+            "未得標廠商": "廣鑫營造有限公司",
+            "是否合格": "是",
+            "標價金額": "360,000,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "3": {
+            "未得標廠商": "安倉營造股份有限公司",
+            "是否合格": "是",
+            "標價金額": "357,500,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "4": {
+            "未得標廠商": "鼎宸營造有限公司",
+            "是否合格": "否",
+            "未得標原因": "資格文件未附或不符合規定",
+            "標價偏低理由": ""
+          },
+          "5": {
+            "未得標廠商": "日泰營造有限公司",
+            "是否合格": "是",
+            "標價金額": "353,500,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "First District Maintenance Construction Office, Directorate General of Highways,Ministry of Transportation and Communications",
+    "機關地址": "No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)",
+    "標案名稱": "Provincial highway no.31 (from highway no.66 to highway no.1) 1st. B new construction work(5K+100~6K+500)",
+    "聯絡人": "Lin Donqing",
+    "聯絡電話": "886-2-86875120",
+    "傳真號碼": "886-02-26820862",
+    "得標廠商1": " ",
+    "廠商代碼": "49772910",
+    "廠商名稱": "RI TAI Building Limited Company",
+    "廠商地址": "15F.-2, No.185, Fuguo Rd., Zuoying Dist., Kaohsiung City 813, Taiwan (R.O.C.)",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "未得標廠商3": " ",
+    "未得標廠商4": " ",
+    "未得標廠商5": " ",
+    "附加說明": "[No. of Invitation to Tender] 1001AA003126AC01[Entity Code] 3.15.25.1[No. of Times of Publication] 1[GPA-covered Case] No [Procuring Entity] First District Maintenance Construction Office, Directorate General of Highways,Ministry of Transportation and Communications [Address of Procuring Entity] No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)[Subject and Quantity of the Procurement] Provincial highway no.31 (from highway no.66 to highway no.1) 1st. B new construction work(5K+100~6K+500)[Attribute of Procurement] 5131[Contact Person] Lin Donqing[Tel. No.] 886-2-86875120[Selling Price and Terms of Payment for Tender Documentation] 1.Price for selling on-site : cash only NT$17402.Price for selling via mail order : postal money order NT$1847 , made payable to First District Maintenance Construction Office,Directorate General of Highways,Ministry of Transportation and Communications 3.Price for acquiring electronic tender documentation on the internet (URL: web2.pcc.gov.tw): electronic payment NT$648[Address for Obtaining Tender Documentation] No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)[Time-limit for Receipt of Tenders] Until 2012/01/05 17:00"
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/01/06",
+    "決標公告日期": "101/01/09",
+    "是否刊登公報": "是",
+    "底價金額": "396,700,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "352,100,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "是",
+    "漲跌幅調整幅度": "依總指數2.5%",
+    "履約執行機關": "機關代碼：3.15.25.1機關名稱：交通部公路總局第一區養護工程處",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50597956&tenderCaseNo=1001AA003126AC01"
+}

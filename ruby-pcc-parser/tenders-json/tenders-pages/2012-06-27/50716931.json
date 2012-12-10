@@ -1,0 +1,169 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.25.1",
+    "機關名稱": "交通部公路總局第一區養護工程處",
+    "單位名稱": "工務課",
+    "機關地址": "238新北市樹林區中正路212號",
+    "聯絡人": "陳鴻誠",
+    "聯絡電話": "(02)86875117",
+    "傳真號碼": "(02)26820859"
+  },
+  "已公告資料": {
+    "標案案號": "1011BA300206AF02",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "02",
+    "標案名稱": "台2丙線1k+856~4K+280段新建工程(含台電、中華電信及自來水管線埋設工",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<工程類> 5131 快速道路(不含高架快速道路), 街道, 馬路, 鐵路及機場跑道",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/06/25 09:40",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "747,674,028元",
+    "是否受機關補助": "否",
+    "履約地點": "基隆市(非原住民地區)",
+    "履約地點（含地區）": "基隆市－暖暖區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：依據上級機關(交通部公路總局)頒定之契約範本",
+    "是否屬災區重建工程": "否",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "5",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "03477008",
+        "廠商名稱": "新高建設股份有限公司",
+        "廠商名稱(英)": "SHINKUO Construction.Co.,Ltd",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "營造業   營造業登記證號碼: B00396",
+        "廠商地址": "106臺北市大安區敦化南路1段314號7樓",
+        "廠商地址(英)": "7F., No.314, Sec. 1, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+        "廠商電話": "(02)27075580",
+        "決標金額": "627,000,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/08/01－103/01/30",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "34270072",
+        "廠商名稱": "世久營造探勘工程股份有限公司",
+        "廠商名稱(英)": "ASIA WORLD ENGINEERING ＆CONSTRUCTION.CO.,Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3": {
+        "廠商代碼": "02659037",
+        "廠商名稱": "榮金營造工程股份有限公司",
+        "廠商名稱(英)": "Fortune Construction.Co.,Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "4": {
+        "廠商代碼": "04267141",
+        "廠商名稱": "安倉營造股份有限公司",
+        "廠商名稱(英)": "AN CANG Construction.Co.,Ltd",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "5": {
+        "廠商代碼": "86346875",
+        "廠商名稱": "開源營造股份有限公司",
+        "廠商名稱(英)": "KAI YUAN Construction.Co.,Ltd",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "台2丙線1k+856~4K+280段新建工程(含台電、中華電信及自來水管線埋設工",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "新高建設股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "627,000,000元",
+            "底價金額": "731,840,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "世久營造探勘工程股份有限公司",
+            "是否合格": "是",
+            "標價金額": "687,000,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2": {
+            "未得標廠商": "榮金營造工程股份有限公司",
+            "是否合格": "是",
+            "標價金額": "663,800,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "3": {
+            "未得標廠商": "安倉營造股份有限公司",
+            "是否合格": "是",
+            "標價金額": "631,500,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "4": {
+            "未得標廠商": "開源營造股份有限公司",
+            "是否合格": "否",
+            "未得標原因": "資格文件未附或不符合規定",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "First District Maintenance Construction Office, Directorate General of Highways,Ministry of Transportation and Communications",
+    "機關地址": "No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)",
+    "標案名稱": "Provincial Highway No.2C,sect 1K+856~4K+280 newly-constructed work.",
+    "聯絡人": "HUNG CHANG CHEN",
+    "聯絡電話": "886-2-86875117",
+    "傳真號碼": "886-02-26820859",
+    "得標廠商1": " ",
+    "廠商代碼": "86346875",
+    "廠商名稱": "KAI YUAN Construction.Co.,Ltd",
+    "廠商地址": "7F., No.314, Sec. 1, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "未得標廠商3": " ",
+    "未得標廠商4": " ",
+    "附加說明": "[No. of Invitation to Tender] 1011BA300206AF02[Entity Code] 3.15.25.1[No. of Times of Publication]1 [GPA-covered Case] No [Procuring Entity] First District Maintenance Construction Office, Directorate General of Highways,Ministry of Transportation and Communications [Address of Procuring Entity] No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)[Subject and Quantity of the Procurement] Provincial Highway No.2C,sect 1K+856~4K+280 newly-constructed work.[Attribute of Procurement] 5131[Contact Person] HUNG CHANG CHEN[Tel. No.] 886-2-86875117[Selling Price and Terms of Payment for Tender Documentation ] 1.Price for selling on-site : cash only NT$25302.Price for selling via mail order : postal money order NT$2637 , made payable to First District Maintenance Construction Office,Directorate General of Highways,Ministry of Transportation and Communications 3.Price for acquiring electronic tender documentation on the internet (URL: web2.pcc.gov.tw): electronic payment NT$806 [Address for Obtaining Tender Documentation] No.212, Zhongzheng Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)[Time-limit for Receipt of Tenders] Until 2012/06/22 17:00"
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/06/25",
+    "決標公告日期": "101/06/27",
+    "是否刊登公報": "是",
+    "底價金額": "731,840,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "627,000,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "是",
+    "漲跌幅調整幅度": "依總指數2.5%",
+    "履約執行機關": "機關代碼：3.15.25.1機關名稱：交通部公路總局第一區養護工程處",
+    "附加說明": "[標案名稱]台2丙線1k+856~4K+280段新建工程(含台電、中華電信及自來水管線埋設工程)"
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50716931&tenderCaseNo=1011BA300206AF02"
+}

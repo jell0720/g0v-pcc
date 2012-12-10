@@ -1,0 +1,184 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.83",
+    "機關名稱": "中華郵政股份有限公司",
+    "單位名稱": "中華郵政股份有限公司",
+    "機關地址": "106臺北市大安區金山南路二段五五號",
+    "聯絡人": "陳怡伶",
+    "聯絡電話": "(02)23921310 分機 2304",
+    "傳真號碼": "(02)23216167"
+  },
+  "已公告資料": {
+    "標案案號": "101-101",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "03",
+    "標案名稱": "101年汰換暨擴充利率與匯率看板整合系統硬體設備（含5年維護）",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<財物類> 452 計算機及其零件與配件",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/06/25 09:30",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "159,289,000元",
+    "是否受機關補助": "否",
+    "履約地點": "其他",
+    "履約地點（含地區）": "臺北市－全區,基隆市－全區,新北市－全區,宜蘭縣－全區,新竹市,新竹縣－全區,桃園縣－全區,苗栗縣－全區,臺中市－全區,彰化縣－全區,南投縣－全區,嘉義市,嘉義縣－全區,雲林縣－全區,臺南市－全區,高雄市－全區,屏東縣－全區,臺東縣－全區,花蓮縣－全區,金門縣－全區,澎湖縣－全區,連江縣－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：本公司參考主管機關訂定範本之要項及內容，另訂財物採購契約範本。",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "6",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "11026506",
+        "廠商名稱": "大同股份有限公司",
+        "廠商名稱(英)": "TATUNG CO.",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "104臺北市中山區集英里21鄰中山北路3段22號",
+        "廠商地址(英)": "22,Chungshan N.Rd.,3rd Sec.,Taipei,Taiwan,104,R.O.C.",
+        "廠商電話": "(02)25984219",
+        "決標金額": "85,000,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "否，預估分包予中小企業之金額 40,000,000 元",
+        "履約起迄日期": "101/07/10－102/02/28",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2": {
+        "廠商代碼": "97311466",
+        "廠商名稱": "精誠資訊股份有限公司",
+        "廠商名稱(英)": "SYSTEX CORPORATION",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3": {
+        "廠商代碼": "20871948",
+        "廠商名稱": "鼎盛資科股份有限公司",
+        "廠商名稱(英)": "TOP INFORMATION TECHNOLOGIES CO.,LTD",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "4": {
+        "廠商代碼": "12368733",
+        "廠商名稱": "台灣恩益禧股份有限公司",
+        "廠商名稱(英)": "NEC Taiwan Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "5": {
+        "廠商代碼": "12261768",
+        "廠商名稱": "台灣新光保全股份有限公司",
+        "廠商名稱(英)": "Taiwan Shinkong security Co.Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "6": {
+        "廠商代碼": "53000774",
+        "廠商名稱": "神通資訊科技股份有限公司",
+        "廠商名稱(英)": "Mitac Information Technology CORP.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "101年汰換暨擴充利率與匯率看板整合系統硬體設備（含5年維護）",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "否",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "大同股份有限公司",
+            "預估需求數量": "1500",
+            "決標金額": "85,000,000元",
+            "底價金額": "114,000,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "精誠資訊股份有限公司",
+            "是否合格": "是",
+            "標價金額": "103,188,800元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2": {
+            "未得標廠商": "鼎盛資科股份有限公司",
+            "是否合格": "是",
+            "標價金額": "95,877,600元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "3": {
+            "未得標廠商": "台灣恩益禧股份有限公司",
+            "是否合格": "是",
+            "標價金額": "102,236,030元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "4": {
+            "未得標廠商": "台灣新光保全股份有限公司",
+            "是否合格": "是",
+            "標價金額": "114,688,080元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "5": {
+            "未得標廠商": "神通資訊科技股份有限公司",
+            "是否合格": "是",
+            "標價金額": "98,773,935元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "CHUNGHWA POST CO., LTD",
+    "機關地址": "No.55, Sec. 2, Jinshan S. Rd., Da-an District, Taipei City 106, Taiwan (R.O.C.)",
+    "標案名稱": "Acquisition of Hardware for Foreign currency and Traveler's Check business in Postal Branches (including 5 years maintenance service)",
+    "聯絡人": "YI-LING CHENG",
+    "聯絡電話": "886-2-23921310 Ext 2304",
+    "傳真號碼": "886-02-23216167",
+    "得標廠商1": " ",
+    "廠商代碼": "53000774",
+    "廠商名稱": "Mitac Information Technology CORP.",
+    "廠商地址": "22,Chungshan N.Rd.,3rd Sec.,Taipei,Taiwan,104,R.O.C.",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "未得標廠商3": " ",
+    "未得標廠商4": " ",
+    "未得標廠商5": " ",
+    "附加說明": "Modify the tender specification (8) 1 Type: 37 inch or 39 inch type LCD monitor.5, brightness: 350cd/m2 (inclusive) above.12, the output power: R, L, each of 5W +5 W (inclusive), speaker magnetic field may not interfere with the screen.(11) HDMI signal extender4, with automatic or fine-tuning function allows HDMI digital video signal in the remote screen display is correct.(13) to extend a USB signal (optional 1 or 2 provided)1, the USB signal extender(1) support USB Plug and Play.(2) USB 2.0 is fully compatible.(3) USB signal through a set of transmitter and a receiver, the use of Cat 5e / 6 cable connected to each other, to extend the transmission distance.(4) The maximum extension distance: extended to 30 meters.(5) with the branch office site to install the environment required to provide a sufficient length of Cat 5e / 6 Ethernet cable.(6) provides for two endpoints of the USB cable.2, USB extension cable signal(1) The transmission distance of up to 30 meters, in line with the USB2.0 standard.(2) transmission speed of 480M / sec, plug and play, no software drivers.(3) support Windows 2008/Win7.(4) support the case USB2.0 standard equipment: a webcam.(5) 30 m length of USB cable.*Amendments to the foregoing proposal in the tender specification II (P.3) and Stanford specifications (P.16), Contract 8, paragraph 8 (P.4), Annex 1 (p. 20), Annex 6 (P.60)and maintenance of the subject matter of the contract annex 1 (P.15), name, etc. corrections; the tender price list for the correction.* Fixed the following:(1) the tender specifications(1) 10 and 19 (d) 42U rack, added, \"7 can be installed on the purchase by the case of rack-mounted hardware (including wiring), the normal front and rear doors can open and close.\"(2) 12 and 21 (7) color printer driver, add \"(Windows 7 64-bit driver is the same as the Windows 2008 Server R2 64-bit).13 and 22 (11) extend the HDMI signal (3) and (13) of the USB signals extended, amended Cat 5e / 6 \"as\" the Cat 5e or Cat 6.(4) 22 (10) LCD display rack, add \"(must be compatible with the branch office site conditions, it should also provide wall-mounted and suspended two kinds of Name Type)\" and \"wall-mounted hanging\" .(2) Contract(1) 3, Article VI, delivery installation Second, the delivery period, additional (liquid crystal display rack excluded).(2) Section 4, Article 6, delivery installation 8, added \"LCD wall-mounted rack, LCD monitors hanging rack of a group\".(3) 5 and 6 of Article VIII acceptance and payment of an acceptance of Phase 1 (a), added \"liquid crystal display rack A wall-mounted or suspended, subject to this case install the Bureau of Environmental it is not included in the centralized inspection of the project, another inspection of the installation by the installation Board in accordance with the \"hardware allotted number of details Form number and name, model, and acceptance to serve with the handle of phase 2. . \"(4) 61 Annex 6: Hardware allotted number of the schedule,A. Amendment installed for the installation type and quantity \",\" (g) 37-inch or 39 inch LCD TV \"to\" (7) 37-inch or 39-inch liquid crystal display, \"(8) 46-inch LED LCD TV \"(eight) 46-inch LED LCD display and (ix) LCD TV rack\" to \"(i) liquid crystal display rack.B. (9) liquid crystal display rack models, additional \"wall hanging\".* Closing the pre-bid, at any time in case the tender notice amendment, supplement and doubts."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/07/09",
+    "決標公告日期": "101/07/12",
+    "是否刊登公報": "是",
+    "底價金額": "114,000,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "85,000,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "財物案",
+    "履約執行機關": "機關代碼：3.15.83機關名稱：中華郵政股份有限公司",
+    "附加說明": "最低標廠商標價低於底價80%，經檢討底價無偏高情形，請其提出說明並繳交差額保證金620萬元，以保障履約品質。"
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50728849&tenderCaseNo=101-101"
+}

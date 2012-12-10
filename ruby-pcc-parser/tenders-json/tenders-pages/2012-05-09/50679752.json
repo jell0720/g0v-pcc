@@ -1,0 +1,133 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.5.1",
+    "機關名稱": "交通部臺灣區國道高速公路局北區工程處",
+    "單位名稱": "交通部臺灣區國道高速公路局北區工程處",
+    "機關地址": "114臺北市內湖區成功路2段193巷12號",
+    "聯絡人": "賴沿鈴",
+    "聯絡電話": "(02)27936555 分機 2211",
+    "傳真號碼": "(02)27928260"
+  },
+  "已公告資料": {
+    "標案案號": "100B03P086",
+    "招標方式": "限制性招標(經公開評選或公開徵求)",
+    "決標方式": "準用最有利標",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "01",
+    "標案名稱": "國道3號碧潭至福德隧道調查監測暨設計監造服務工作",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 8672 工程服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "是",
+    "開標時間": "101/03/20 10:00",
+    "採購金額級距": "查核金額以上未達巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "限制性招標依據之法條": "採購法第22條第1項第9款",
+    "預算金額是否公開": "是",
+    "預算金額": "13,928,140元",
+    "是否受機關補助": "否",
+    "履約地點": "新北市(非原住民地區)",
+    "履約地點（含地區）": "新北市－汐止區,新北市－新店區,新北市－永和區,新北市－中和區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：主管機關範本冗多，不適用本招標案需求。",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "2",
+    "投標廠商": {
+      "1": {
+        "廠商代碼": "84124259",
+        "廠商名稱": "中興工程顧問股份有限公司",
+        "廠商名稱(英)": "Sinotech Engineering Consultants, Ltd",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "技術顧問公司",
+        "廠商地址": "105臺北市松山區南京東路5段171號14樓",
+        "廠商地址(英)": "12F, 171 Nanking E. Rd. Sec. 5, Taipei, Taiwan, R.O.C",
+        "廠商電話": "(02)27698388",
+        "決標金額": "13,900,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/05/21－103/05/21",
+        "雇用員工總人數是否 超過100人": "是",
+        "僱用員工總 人數": "1573",
+        "已僱用原住民 人數": "1",
+        "已僱用身心障礙者 人數": "18"
+      },
+      "2": {
+        "廠商代碼": "28368864",
+        "廠商名稱": "易鼎工程顧問有限公司",
+        "廠商名稱(英)": "E-turn Engineering Consultant Co. Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "國道3號碧潭至福德隧道調查監測暨設計監造服務工作",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "",
+        "得標廠商": {
+          "1": {
+            "得標廠商": "中興工程顧問股份有限公司",
+            "參與評選": "是",
+            "評選序位或總評分": "序位合計6",
+            "預估需求數量": "1",
+            "決標金額": "13,900,000元",
+            "底價金額": "13,900,000元"
+          }
+        },
+        "未得標廠商": {
+          "1": {
+            "未得標廠商": "易鼎工程顧問有限公司",
+            "參與評選": "否",
+            "是否合格": "否",
+            "標價金額": "12,706,000元",
+            "未得標原因": "審標不合格且未得標之其他原因 ：經查易鼎工程顧問有限公司負責人谷明地身份証號碼及出生年月日，證實為本機關退休人員，該員退休未滿3年，已違反「公務員服務法」第十四條之ㄧ規定及「政府採購法」第十五條第一項規定，主持人當場宣佈該公司資格不符。"
+          }
+        }
+      }
+    }
+  },
+  "最有利標": {
+    "項次出席會議姓名職業": null,
+    "": "7"
+  },
+  "英文公告": {
+    "機關名稱": "Northern Region Engineering Office,Taiwan Area National Freeway Bureau,MOTC.",
+    "機關地址": "No. 12, Lane 193, Sec. 2, Chenggong Rd., Neihu District, Taipei City (114), Taiwan, R.O.C.",
+    "標案名稱": "The investigation,monitoring and design monitoring of Federal Highway three between Bitan and Fude tunnel.",
+    "聯絡人": "Lai Yen-Ling",
+    "聯絡電話": "886-2-27936555 Ext 2211",
+    "傳真號碼": "886-02-27928260",
+    "得標廠商1": " ",
+    "廠商代碼": "28368864",
+    "廠商名稱": "E-turn Engineering Consultant Co. Ltd.",
+    "廠商地址": "12F, 171 Nanking E. Rd. Sec. 5, Taipei, Taiwan, R.O.C",
+    "未得標廠商1": " ",
+    "附加說明": "1.If the bidders have any question about this bid-inviting documents,the bidders can use the fifth clause and the specifications of the bid-inviting document before 17:00,Wednesday,Feb 22,2012.2.The document will be submitted as an additional remark if the bidders' question documents involved in changind or adding the contents of the original document.The additional remark will be post on the Government E-procurement system before March 13,2012.Bidders can go to the bid received place to get the additional remark with the original recepit.3.If there are any issue cause our premises stoped work on closing and opening date,then the date will be extended to the work day of the origianl date.4.Bid received and tender department:No.12 Lane 193,Sec. 2 Chenggung Rd.,Neihu Dist., Taipei City 114, Taiwan 5.Opening department:3F.,No.12 Lane 193,Sec. 2 Chenggung Rd.,Neihu Dist., Taipei City 114, Taiwan"
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/05/02",
+    "決標公告日期": "101/05/09",
+    "是否刊登公報": "是",
+    "底價金額": "13,900,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "13,900,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "勞務案",
+    "履約執行機關": "機關代碼：3.15.5.1機關名稱：交通部臺灣區國道高速公路局北區工程處",
+    "附加說明": "本工作於101年4月13日召開優勝廠商評選會議，經出席委員共同決議：序位第一之中興工程顧問股份有限公司為第1優勝廠商，並通知於101年5月2日下午13時30分辦理第1次議價，議價結果：中興工程顧問股份有限公司報價新台幣1,392萬8,000元整，超出核定底價，經第一次減價後報價1,392萬元整，仍超出核定底價，經第二次減價後報價1,390萬元整，經主持人當場宣佈決標及底價1,390萬元整。"
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50679752&tenderCaseNo=100B03P086"
+}
