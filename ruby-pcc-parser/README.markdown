@@ -18,4 +18,6 @@ tender_page_downloader.rb
 
 # 將決標網頁轉成 json 
 
-`parser.rb TARGET_FOLDER`
+`parser.rb TARGET_FOLDER/*`
+
+ex `./parser.rb "tender-pages/*/*"`
