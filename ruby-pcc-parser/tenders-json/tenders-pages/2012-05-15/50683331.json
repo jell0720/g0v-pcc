@@ -40,7 +40,7 @@
   "投標廠商": {
     "投標廠商家數": "4",
     "投標廠商": {
-      "1": {
+      "1_2": {
         "廠商代碼": "U0052841",
         "廠商名稱": "Laith Madi Engineering & Contracting Co.",
         "廠商名稱(英)": "Laith Madi Engineering & Contracting Co.",
@@ -57,21 +57,21 @@
         "履約起迄日期": "101/06/15－101/09/15",
         "雇用員工總人數是否 超過100人": "否"
       },
-      "2": {
+      "2_18": {
         "廠商代碼": "U0053283",
         "廠商名稱": "OGAREET For Contracting Construction Company",
         "廠商名稱(英)": "OGAREET For Contracting Construction Company",
         "是否得標": "否",
         "組織型態": "其他"
       },
-      "3": {
+      "3_24": {
         "廠商代碼": "U0053282",
         "廠商名稱": "Jordanian Lebanese Company for Decoration",
         "廠商名稱(英)": "Jordanian Lebanese Company for Decoration",
         "是否得標": "否",
         "組織型態": "其他"
       },
-      "4": {
+      "4_30": {
         "廠商代碼": "U0053281",
         "廠商名稱": "ANDALUS Window System",
         "廠商名稱(英)": "ANDALUS Window System",
@@ -87,7 +87,7 @@
         "品項名稱": "新建館宿舍案裝潢工程",
         "是否以單價及預估需 求數量之乘積決定最 低標": "",
         "得標廠商": {
-          "1": {
+          "1_5": {
             "得標廠商": "Laith Madi Engineering & Contracting Co.",
             "預估需求數量": "1",
             "決標金額": "2,850,000元",
@@ -95,19 +95,19 @@
           }
         },
         "未得標廠商": {
-          "1": {
+          "1_10": {
             "未得標廠商": "OGAREET For Contracting Construction Company",
             "是否合格": "否",
             "未得標原因": "資格文件未附或不符合規定",
             "標價偏低理由": ""
           },
-          "2": {
+          "2_15": {
             "未得標廠商": "Jordanian Lebanese Company for Decoration",
             "是否合格": "否",
             "未得標原因": "資格文件未附或不符合規定",
             "標價偏低理由": ""
           },
-          "3": {
+          "3_20": {
             "未得標廠商": "ANDALUS Window System",
             "是否合格": "否",
             "未得標原因": "資格文件未附或不符合規定",

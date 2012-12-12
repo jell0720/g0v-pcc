@@ -20,7 +20,9 @@ def parse_inner_table(table)
   keys=[]
   current_json=json
   tenderer_type=nil
+  tr_number =0 
   table.css('tr').each do |tr|
+    tr_number +=1
     th =t(tr.css("th"))
     td =t(tr.css("td").first)
  
@@ -33,9 +35,9 @@ def parse_inner_table(table)
     new_tenderer_start =( th.match /(?<type>.*標廠商)(?<index>\d+)/) 
     if new_tenderer_start && td == ''
       if keys[0] == '品項'
-        keys=keys[0,2] +[ new_tenderer_start[:type], new_tenderer_start[:index] ]
+        keys=keys[0,2] +[ new_tenderer_start[:type], "#{new_tenderer_start[:index]}_#{tr_number}" ]
       else
-        keys=[ new_tenderer_start[:type], new_tenderer_start[:index] ]
+        keys=[ new_tenderer_start[:type], "#{new_tenderer_start[:index]}_#{tr_number}" ]
       end
       next
     end

@@ -39,7 +39,7 @@
   "投標廠商": {
     "投標廠商家數": "3",
     "投標廠商": {
-      "1": {
+      "1_2": {
         "廠商代碼": "U0053155",
         "廠商名稱": "GREAT AMERICAN INSURANCE COMPANY",
         "廠商名稱(英)": "GREAT AMERICAN INSURANCE COMPANY",
@@ -59,14 +59,14 @@
         "已僱用原住民 人數": "0",
         "已僱用身心障礙者 人數": "200"
       },
-      "2": {
+      "2_21": {
         "廠商代碼": "U0053156",
         "廠商名稱": "LIBERTY MUTUAL INSURANCE COMPANY",
         "廠商名稱(英)": "LIBERTY MUTUAL INSURANCE COMPANY",
         "是否得標": "否",
         "組織型態": "其他"
       },
-      "3": {
+      "3_27": {
         "廠商代碼": "U0053157",
         "廠商名稱": "CHUBB INDEMNITY INSURANCE COMPANY",
         "廠商名稱(英)": "CHUBB INDEMNITY INSURANCE COMPANY",
@@ -82,7 +82,7 @@
         "品項名稱": "2012 Financila Institution Bond Form 24",
         "是否以單價及預估需 求數量之乘積決定最 低標": "",
         "得標廠商": {
-          "1": {
+          "1_5": {
             "得標廠商": "GREAT AMERICAN INSURANCE COMPANY",
             "預估需求數量": "1",
             "決標金額": "480,500元",
@@ -90,14 +90,14 @@
           }
         },
         "未得標廠商": {
-          "1": {
+          "1_10": {
             "未得標廠商": "LIBERTY MUTUAL INSURANCE COMPANY",
             "是否合格": "是",
             "標價金額": "499,069元",
             "未得標原因": "資格、規格合於招標文件但非最低(高)標",
             "標價偏低理由": ""
           },
-          "2": {
+          "2_16": {
             "未得標廠商": "CHUBB INDEMNITY INSURANCE COMPANY",
             "是否合格": "是",
             "標價金額": "722,982元",

@@ -39,7 +39,7 @@
   "投標廠商": {
     "投標廠商家數": "1",
     "投標廠商": {
-      "1": {
+      "1_2": {
         "廠商代碼": "U0051930",
         "廠商名稱": "歐洲中期天氣預報中心（The European Centre for Medium Range Weather Forecasts簡稱ECMWF）",
         "是否得標": "是",
@@ -64,7 +64,7 @@
         "品項名稱": "1012215C",
         "是否以單價及預估需 求數量之乘積決定最 低標": "否",
         "得標廠商": {
-          "1": {
+          "1_5": {
             "得標廠商": "歐洲中期天氣預報中心（The European Centre for Medium Range Weather Forecasts簡稱ECMWF）",
             "預估需求數量": "1",
             "決標金額": "1,883,852元"

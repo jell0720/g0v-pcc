@@ -38,7 +38,7 @@
   "投標廠商": {
     "投標廠商家數": "1",
     "投標廠商": {
-      "1": {
+      "1_2": {
         "廠商代碼": "U0051754",
         "廠商名稱": "LAP Laser Applications Asia Pacific Pte Ltd",
         "廠商名稱(英)": "LAP Laser Applications Asia Pacific Pte Ltd",
@@ -65,7 +65,7 @@
         "品項名稱": "雷射投影系統等一項",
         "是否以單價及預估需 求數量之乘積決定最 低標": "",
         "得標廠商": {
-          "1": {
+          "1_5": {
             "得標廠商": "LAP Laser Applications Asia Pacific Pte Ltd",
             "預估需求數量": "8",
             "決標金額": "8,923,488元",
