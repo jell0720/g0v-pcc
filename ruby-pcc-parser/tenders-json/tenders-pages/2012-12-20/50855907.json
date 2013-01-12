@@ -1,0 +1,138 @@
+{
+  "機關資料": {
+    "機關代碼": "3.1.14",
+    "機關名稱": "內政部入出國及移民署",
+    "單位名稱": "秘書室",
+    "機關地址": "100臺北市中正區廣州街15號",
+    "聯絡人": "李安貴",
+    "聯絡電話": "(02)23889393 分機 2762",
+    "傳真號碼": "(02)23810102"
+  },
+  "已公告資料": {
+    "標案案號": "3-1010839",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "02",
+    "標案名稱": "102年度各縣市服務站設置專業移民服務人員勞務委託案",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<勞務類> 911 政府行政服務",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/12/19 08:30",
+    "採購金額級距": "查核金額以上未達巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "14,753,773元",
+    "是否受機關補助": "否",
+    "履約地點": "其他",
+    "履約地點（含地區）": "其他－其他",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "3",
+    "投標廠商": {
+      "1_2": {
+        "廠商代碼": "23586692",
+        "廠商名稱": "永昇國際開發股份有限公司",
+        "廠商名稱(英)": "Yong Sheng International Co., Ltd.",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "其他",
+        "廠商地址": "114臺北市內湖區瑞光路408號4樓之3",
+        "廠商地址(英)": "4F-3 No 408,Ruiguang Rd., Neihu bist., Taipei City 114 Taiwan",
+        "廠商電話": "(02)87719733",
+        "決標金額": "14,460,900元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "102/12/01－102/12/31",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2_18": {
+        "廠商代碼": "05642340",
+        "廠商名稱": "錦鈺國際股份有限公司",
+        "廠商名稱(英)": "Jin Yu International Co., Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3_24": {
+        "廠商代碼": "24253145",
+        "廠商名稱": "元大科技管理顧問股份有限公司",
+        "廠商名稱(英)": "Yuan Ta Technology Management Consulting Co., Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "102年度各縣市服務站設置專業移民服務人員勞務委託案",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "否",
+        "得標廠商": {
+          "1_5": {
+            "得標廠商": "永昇國際開發股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "14,460,900元",
+            "底價金額": "14,693,965元"
+          }
+        },
+        "未得標廠商": {
+          "1_10": {
+            "未得標廠商": "錦鈺國際股份有限公司",
+            "是否合格": "是",
+            "標價金額": "14,520,300元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2_16": {
+            "未得標廠商": "元大科技管理顧問股份有限公司",
+            "是否合格": "是",
+            "標價金額": "14,726,565元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "National Immigration Agency,Ministry of the Interior",
+    "機關地址": "No15,Guangjhou St.,Jhongjheng Distric,Taipei City 10066,Taiwan R.O.C",
+    "標案名稱": "Bidding for contract labor supply in professional immigration service to all local service centers for the National Immigration Agency in the year 2013",
+    "聯絡人": "LEE AN-GUEY/CHANG SHU-CHUAN",
+    "聯絡電話": "886-2-23889393 Ext 2762",
+    "傳真號碼": "886-02-23810102",
+    "得標廠商1": " ",
+    "廠商代碼": "24253145",
+    "廠商名稱": "Yuan Ta Technology Management Consulting Co., Ltd.",
+    "廠商地址": "4F-3 No 408,Ruiguang Rd., Neihu bist., Taipei City 114 Taiwan",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "附加說明": "(A) Vendor registration or establishment certificate: company registration or business registration documents, certificate of establishment or registration, certificate of factory registration, industry registration certificate, business operation license, document attesting to the business opening, filing document, or other supporting documents confirming the legal registration of the establishment which has been issued by the government or an authorized organization ( Please note that the Certificate of Business Registration was abolished on April 12, 2009;,and is therefore not acceptable as a document of proof.)(B) Tax statement (sales tax or income tax payment certificate):1. Proof of sales tax payment of the most recent term: the receipt of sales tax remittance, or receipt of Declaration of Sales and Business Tax by a Business Entity approved by a recognized authority. Any vendor who has not yet obtained the proof of tax remittance for the most recent term may submit one of the prior term. A newly established business which has not yet filed tax for the first term may alternatively submit an official letter confirming the establishment of the business issued by the relevant local tax authorities. A document attesting to the application for the use of Uniform Purchase Invoice should be submitted together. The doceument is waived for business entities with tax exempt status,, provided that a statement of personal guarantee upon penalty of perjury attesting the applicant’s qualification for the exemption is included..2. The income tax certificate of educational, cultural, public welfare, charitable organizations or groups is on the revenue and expenditure application form.The certificate of income tax or business tax can be provided by the stamp of the same or pervious term of the no tax law violation check form approved by the relevant auditing governmental authority.(C) Proof of tenderer’s creditworthiness:The creditworthiness includes the statements which state the tenderer does not have a rejected bank account in 6 months before the deadline of the bidding and no record of bounced check within 3 years recently issued by the check exchange institution or financial organizations accepting inquiry, the financial statement approved by the accountant, or the certificate of creditworthiness made by a credit agency or financial organization. If the tenderer had a bounced check record and completed the settlement afterward, which will be regarded as a “no bounced check record.” If the Agency finds evidence that the tenderer had a rejected bank account or a bounced check record before the deadline of the bidding, we will deal with the matter."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/12/19",
+    "決標公告日期": "101/12/20",
+    "是否刊登公報": "是",
+    "底價金額": "14,693,965元",
+    "底價金額是否公開": "是",
+    "總決標金額": "14,460,900元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "否",
+    "未列物價調整規定說明": "勞務案",
+    "履約執行機關": "機關代碼：3.1.14機關名稱：內政部入出國及移民署",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50855907&tenderCaseNo=3-1010839"
+}

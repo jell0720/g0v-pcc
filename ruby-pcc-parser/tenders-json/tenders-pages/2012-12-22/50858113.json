@@ -1,0 +1,139 @@
+{
+  "機關資料": {
+    "機關代碼": "3.15.5",
+    "機關名稱": "交通部臺灣區國道高速公路局",
+    "單位名稱": "工務組",
+    "機關地址": "243新北市泰山區黎明里半山雅70號",
+    "聯絡人": "詹益斌",
+    "聯絡電話": "(02)29096141 分機 2225",
+    "傳真號碼": "(02)29093210"
+  },
+  "已公告資料": {
+    "標案案號": "101A11P006",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "02",
+    "標案名稱": "國道高速公路橋梁耐震補強第2期工程(第1優先路段)第M35標",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<工程類> 5132 橋樑, 高架快速道路, 隧道及地鐵",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/12/18 10:00",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "416,585,069元",
+    "是否受機關補助": "否",
+    "履約地點": "其他",
+    "履約地點（含地區）": "臺南市－全區,高雄市－全區,屏東縣－全區",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "否不採用主管機關訂定之範本之理由：本局採購契約是參考行政院公共工程委員會所訂定範本之精神所制定，符合政府採購法及其相關子法之規定。",
+    "是否屬災區重建工程": "否",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "3",
+    "投標廠商": {
+      "1_2": {
+        "廠商代碼": "96893915",
+        "廠商名稱": "聯成豐營造工程有限公司",
+        "廠商名稱(英)": "United Chengfeng Construction Engineering Co., Ltd",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "營造業   營造業登記證號碼: 綜甲M字第A00122-003號",
+        "廠商地址": "412臺中市大里區永隆里永大街505號1樓",
+        "廠商地址(英)": "1F., No.505, Yongda St., Dali Dist., Taichung City 41283, Taiwan (R.O.C.)",
+        "廠商電話": "(04)24068388",
+        "決標金額": "321,000,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "102/03/01－103/10/01",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "2_18": {
+        "廠商代碼": "04976087",
+        "廠商名稱": "鼎宸營造有限公司",
+        "廠商名稱(英)": "Ding Chen Construction Co. Ltd",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3_24": {
+        "廠商代碼": "22810882",
+        "廠商名稱": "長達營造工程有限公司",
+        "廠商名稱(英)": "Up to Construction Engineering Co., Ltd.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "國道高速公路橋梁耐震補強第2期工程(第1優先路段)第M35標",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "否",
+        "得標廠商": {
+          "1_5": {
+            "得標廠商": "聯成豐營造工程有限公司",
+            "預估需求數量": "1",
+            "決標金額": "321,000,000元",
+            "底價金額": "380,000,000元"
+          }
+        },
+        "未得標廠商": {
+          "1_10": {
+            "未得標廠商": "鼎宸營造有限公司",
+            "是否合格": "是",
+            "標價金額": "344,950,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2_16": {
+            "未得標廠商": "長達營造工程有限公司",
+            "是否合格": "是",
+            "標價金額": "332,850,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "Taiwan Area National Freeway Bureau, MOTC",
+    "機關地址": "NO. 70,Banshanya,Liming Village,Taishan District,New Taipei City,Taiwan 24303,R.O.C.",
+    "標案名稱": "National Freeway Bridge Seismic Retrofitting Project (2nd stage) M35 Bid",
+    "聯絡人": "yi-bin,jan",
+    "聯絡電話": "886-2-29096141 Ext 2225",
+    "傳真號碼": "886-02-29093210",
+    "得標廠商1": " ",
+    "廠商代碼": "22810882",
+    "廠商名稱": "Up to Construction Engineering Co., Ltd.",
+    "廠商地址": "1F., No.505, Yongda St., Dali Dist., Taichung City 41283, Taiwan (R.O.C.)",
+    "未得標廠商1": " ",
+    "未得標廠商2": " ",
+    "附加說明": "Project title: National Freeway Bridge Seismic Retrofitting Project(2nd)stage M35 BidThe date for publication:December 10th, 2012The deadline for submission of tender: 05:00 p.m., December 17th, 2012Tender opening:10:00 a.m., December 18th, 2012Bid Bond:NT$ 20,800,000The place for tender opening:(The first office meeting room) 70 Panshanya, Liming Village , Taishan District , New Taipei City, Taiwan R.O.C.Scope of work:There are total 12 bridges in need of being retrofitted in the M35 bid including southbound and northbound. On National Freeway No.3, there are Wan-qi river bridge (367k+878) of Xinhwa-tianlian section and Er-ren river bridge (370k+455) of Tianlian-yanchoa section. In addition, Mei-nong river bridge, Yi-yang river bridge, Li-gang No. 1 spillway bridge, and Ping No.92 crossing bridge are on Chishan branch line of National Freeway No.10The major tasks are as follows:Foundation Retrofit, Steel Jacketing, Pier Caps Retrofit, Abutments Retrofit, Concrete Shear Blocks, Steel Shear keys, Loss Prevention Device, Shock Transmission Units, Restrainers Installation and replacement, and so on.Others: Please check the bid documents."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/12/18",
+    "決標公告日期": "101/12/22",
+    "是否刊登公報": "是",
+    "底價金額": "380,000,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "321,000,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "是",
+    "漲跌幅調整幅度": "依總指數2.5%",
+    "履約執行機關": "機關代碼：3.15.5機關名稱：交通部臺灣區國道高速公路局",
+    "附加說明": ""
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50858113&tenderCaseNo=101A11P006"
+}

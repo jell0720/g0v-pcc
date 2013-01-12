@@ -1,0 +1,185 @@
+{
+  "機關資料": {
+    "機關代碼": "3.13.32.15.11",
+    "機關名稱": "台灣電力股份有限公司核能火力發電工程處中部施工處",
+    "單位名稱": "台灣電力股份有限公司核能火力發電工程處中部施工處",
+    "機關地址": "434臺中市龍井區麗水里龍昌路一號",
+    "聯絡人": "工管組工務課",
+    "聯絡電話": "(04)26396002 分機 314",
+    "傳真號碼": "(04)26396121"
+  },
+  "已公告資料": {
+    "標案案號": "6760151302",
+    "招標方式": "公開招標",
+    "決標方式": "最低標",
+    "是否依「機關異質採購最低標作業須知」辦理": "否",
+    "新增公告傳輸次數": "01",
+    "公告更正序號": "01",
+    "標案名稱": "通霄電廠更新擴建計畫循環冷卻水系統抽水機房及緩流池工程",
+    "決標資料類別": "決標公告",
+    "是否屬共同供應契約採購": "否",
+    "是否複數決標": "否",
+    "是否共同投標": "否",
+    "標的分類": "<工程類> 5164 電力工程",
+    "是否屬統包": "否",
+    "是否應依公共工程專業技師簽證規則實施技師簽證": "否",
+    "開標時間": "101/12/13 10:00",
+    "採購金額級距": "巨額",
+    "是否適用條約或協定之採購": "是WTO政府採購協定",
+    "預算金額是否公開": "是",
+    "預算金額": "911,000,000元",
+    "是否受機關補助": "否",
+    "履約地點": "苗栗縣(非原住民地區)",
+    "履約地點（含地區）": "苗栗縣－通霄",
+    "是否屬優先採購身心障礙福利機構產品或勞務": "否",
+    "是否含特別預算": "否",
+    "歸屬計畫類別": "非屬愛台十二項計畫",
+    "本案採購契約是否採用主管機關訂定之範本": "是",
+    "是否屬災區重建工程": "否",
+    "辦理方式": "自辦"
+  },
+  "投標廠商": {
+    "投標廠商家數": "6",
+    "投標廠商": {
+      "1_2": {
+        "廠商代碼": "43794254",
+        "廠商名稱": "華志營造股份有限公司",
+        "廠商名稱(英)": "HWA CHU CONSTRUCT CO.,LTD.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "2_8": {
+        "廠商代碼": "22064421",
+        "廠商名稱": "真毅營造有限公司",
+        "廠商名稱(英)": "UP AND UP ENGINEERING&CONSTRUCTION CO.,LTD.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "3_14": {
+        "廠商代碼": "22132814",
+        "廠商名稱": "德昌營造股份有限公司",
+        "廠商名稱(英)": "Te Chang Construction Co., LTD",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "4_20": {
+        "廠商代碼": "34270072",
+        "廠商名稱": "世久營造探勘工程股份有限公司",
+        "廠商名稱(英)": "ASIA WORLD ENGINEERING&CONSTRUCTION CO.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      },
+      "5_26": {
+        "廠商代碼": "86415247",
+        "廠商名稱": "金樹營造股份有限公司",
+        "廠商名稱(英)": "CHIN SHU Construction Co.,LTD.",
+        "是否得標": "是",
+        "組織型態": "公司登記",
+        "廠商資格": "營造業   營造業登記證號碼: A01767",
+        "廠商地址": "357苗栗縣通霄鎮通西里中山路186之8號",
+        "廠商地址(英)": "NO.186-6,jhongshan Rd.,Tongsi Village,Tongsian Township,Miaoli County 357,Taiwan(R.O.C)",
+        "廠商電話": "(037)755843",
+        "決標金額": "708,500,000元",
+        "得標廠商國別": "中華民國(ROC)",
+        "原產地國別": "中華民國(ROC)",
+        "是否為中小企業": "是",
+        "履約起迄日期": "101/12/13－104/08/15",
+        "雇用員工總人數是否 超過100人": "否"
+      },
+      "6_42": {
+        "廠商代碼": "04267141",
+        "廠商名稱": "安倉營造股份有限公司",
+        "廠商名稱(英)": "ANCHANG CONSTRUCTION CO.LTD.",
+        "是否得標": "否",
+        "組織型態": "公司登記"
+      }
+    }
+  },
+  "決標品項": {
+    "決標品項數": "1",
+    "品項": {
+      "1": {
+        "品項名稱": "通霄電廠更新擴建計畫循環冷卻水系統抽水機房及緩流池工程",
+        "是否以單價及預估需 求數量之乘積決定最 低標": "否",
+        "得標廠商": {
+          "1_5": {
+            "得標廠商": "金樹營造股份有限公司",
+            "預估需求數量": "1",
+            "決標金額": "708,500,000元",
+            "底價金額": "880,000,000元"
+          }
+        },
+        "未得標廠商": {
+          "1_10": {
+            "未得標廠商": "華志營造股份有限公司",
+            "是否合格": "是",
+            "標價金額": "787,800,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "2_16": {
+            "未得標廠商": "真毅營造有限公司",
+            "是否合格": "是",
+            "標價金額": "786,000,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "3_22": {
+            "未得標廠商": "德昌營造股份有限公司",
+            "是否合格": "是",
+            "標價金額": "739,000,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "4_28": {
+            "未得標廠商": "世久營造探勘工程股份有限公司",
+            "是否合格": "是",
+            "標價金額": "850,000,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          },
+          "5_34": {
+            "未得標廠商": "安倉營造股份有限公司",
+            "是否合格": "是",
+            "標價金額": "892,500,000元",
+            "未得標原因": "資格、規格合於招標文件但非最低(高)標",
+            "標價偏低理由": ""
+          }
+        }
+      }
+    }
+  },
+  "英文公告": {
+    "機關名稱": "chung Pu Construction Office, Department of Nuclear and Fossil Power Projects , TPC",
+    "機關地址": "No.1 Lung-Chiang Road Li-Shoei Village Lung-Ching Distric Taichung City 434 ,Taiwan R.O.C",
+    "標案名稱": "TAIWAN POWER COMPANY TUNG HSIAO POWER PLANT RENEWAL PROJECT--Circulating Cooling Water Pump House and Discharge Pit",
+    "聯絡人": "Lee liang-Chiu",
+    "聯絡電話": "886-4-26396002 Ext 314",
+    "傳真號碼": "886-04-26396121",
+    "未得標廠商1": " ",
+    "廠商代碼": "04267141",
+    "廠商名稱": "ANCHANG CONSTRUCTION CO.LTD.",
+    "未得標廠商2": " ",
+    "未得標廠商3": " ",
+    "未得標廠商4": " ",
+    "得標廠商1": " ",
+    "廠商地址": "NO.186-6,jhongshan Rd.,Tongsi Village,Tongsian Township,Miaoli County 357,Taiwan(R.O.C)",
+    "未得標廠商5": " ",
+    "附加說明": "Additional Description of Invitation to Tender:Bidders’ Qualifications:1.General(1) Only bidders of domestic contractors and those foreign contractors whose countries have signed WTO’s GPA can participate in bidding or work as subcontractors.(2)No Joint Venture is allowed for this project.(3)Other general regulations please refer to TOR 7、(3)1.2.Basic QualificationsA.For bidders of domestic contractors, the following documents shall be submitted:(A)Grade A General Construction Enterprises Registration Certificate issued by Taiwan, ROC Government.(B)Certificate of the Membership of the Association of Construction Enterprises in Taiwan.(C)One of the business items shown on the Company Registration Certificate shall be “E101011 Grade A General Construction Enterprises” approved by Taiwan, ROC Government.(D)Proof of credibility issued by a clearing house or a financial institution that has been enquired, that the contractor is not a debarred customer within the last six months before the deadline of bid submission, and the proof of record of no bouncing checks within the last three years. B.For bidders of foreign contractors, the following documents shall be submitted:(A)Grade A General Construction Enterprises Registration Certificate issued by Taiwan, ROC Government.(B)Proof of legal registration or establishment of the contractor issued by the government authorities of its country or its authorized agencies. The business contents stated therein shall be related to the above-mentioned A. (C).(C)One of the following two documents shall be provided by the bidder:a.Financial Statement verified by certified accountantb.Credit proof issued by financial institutions or credit investigation agencies3.Specific qualificationsThe bidders shall submit the financial statement:Financial report attached with statements of the previous fiscal year or the most recent year, that has been verified by certified accountant or audited by auditing authorities. The contents therein shall comply with the following regulations:A.The net value shall not be less than NT$75 million.B.The current assets shall not lower than the current liabilities.C.The amount of total liabilities shall not exceed four times of the net value. Remarks: The other requirements are listed in the tender notice in Chinese .1.Modify Detail “1” and add Note “2” for the construction drawing No. H0-9-SRV00-D0061 (Please refer to the revised drawing).2.The original deadline for bid availability and submission will be extended to 16:30 on December 12 from16:30 on December 10, and the bid opening time will be thus postponed to 10:00 on December 13 from10:00 on December 11.3.No other changes."
+  },
+  "決標資料": {
+    "決標公告序號": "001",
+    "決標日期": "101/12/13",
+    "決標公告日期": "101/12/17",
+    "是否刊登公報": "是",
+    "底價金額": "880,000,000元",
+    "底價金額是否公開": "是",
+    "總決標金額": "708,500,000元",
+    "總決標金額是否公開": "是",
+    "契約是否訂有依物價指數調整價金規定": "是",
+    "漲跌幅調整幅度": "依特定個別項目指數2.5%",
+    "履約執行機關": "機關代碼：3.13.32.15.11機關名稱：台灣電力股份有限公司核能火力發電工程處中部施工處",
+    "附加說明": "上述金額均不含營業稅"
+  },
+  "url": "http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50849849&tenderCaseNo=6760151302"
+}
