@@ -48,7 +48,11 @@ def parse_inner_table(table)
       next
     end
     
-    current_json[th] = td
+    current_json[th] = if th =~ /金額/
+                         td.gsub(/,/,'').to_i
+                       else
+                         td
+                       end
   end
   json
 end
@@ -89,11 +93,29 @@ Dir.glob(ARGV[0]) do |source_path|
     else
       th = t(tr.xpath("th"))
       if th != ''
-        current_json[th] = t(tr.css("td").first)
+        current_json[th] = if th =~ /金額/
+                             t(tr.css("td").first).gsub(/,/,'').to_i
+                           else
+                             t(tr.css("td").first)
+                           end
       end
     end
 
   end
+
+  json["決標品項"]["品項"] =  json["決標品項"]["品項"].map{|x,y| y}
+  json["決標品項"]["品項"].each do |x|
+    x["得標廠商"] = x["得標廠商"].map{|x,y| y}  if x["得標廠商"]
+    x["未得標廠商"] = x["未得標廠商"].map{|x,y| y} if x["未得標廠商"]
+  end
+  json["投標廠商"]["投標廠商"] =  json["投標廠商"]["投標廠商"].map{|x,y| y}
+  y,m,d = json["決標資料"]["決標公告日期"].split(/\//)
+  json["決標資料"]["決標公告日期"] = "#{1911+y.to_i}/#{m}/#{d}"
+
+  y,m,d = json["決標資料"]["決標日期"].split(/\//)
+  json["決標資料"]["決標日期"] = "#{1911+y.to_i}/#{m}/#{d}"
+
+
   procurement_data = json["採購資料"] || json["已公告資料"]
   json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path)}&tenderCaseNo=#{procurement_data['標案案號']}"
   #puts JSON.pretty_generate(json)
