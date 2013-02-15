@@ -13,10 +13,10 @@ Dir.glob('tender-urls/*.json').sort.reverse.each do |path|
   urls.each_with_index do |url, index|
     if url =~ /pkAtmMain=(\d+)/
       html_path = File.join(html_dir, $1) 
-      puts "get: #{date} - #{index+1}/#{urls.length} - #{$1} - #{url}"
       if !File.exists? html_path
+        puts "get: #{date} - #{index+1}/#{urls.length} - #{$1} - #{url}"
         begin
-          html_source = open(url).read 
+          html_source = open(url+'&contentMode=1').read 
           open(html_path,'w'){|f| f.write(html_source)} 
           sleep rand(10)/10.0 + rand(1)
         rescue
