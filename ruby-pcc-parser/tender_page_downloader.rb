@@ -2,6 +2,8 @@
 require 'json'
 require 'open-uri'
 require 'fileutils'
+require 'uri'
+require 'cgi'
 base_dir = 'tender-pages'
 FileUtils.mkdir_p(base_dir)
 Dir.glob('tender-urls/*.json').sort.reverse.each do |path|
@@ -11,10 +13,12 @@ Dir.glob('tender-urls/*.json').sort.reverse.each do |path|
 
   urls = JSON.load(open(path))
   urls.each_with_index do |url, index|
-    if url =~ /pkAtmMain=(\d+)/
-      html_path = File.join(html_dir, $1) 
+    uri=URI.parse(url)
+    params = CGI.parse(uri.query)
+    if params["pkAtmMain"]
+      html_path = File.join(html_dir, "#{params["pkAtmMain"].first}-#{params["tenderCaseNo"].first}") 
       if !File.exists? html_path
-        puts "get: #{date} - #{index+1}/#{urls.length} - #{$1} - #{url}"
+        puts "get: #{date} - #{index+1}/#{urls.length} - #{html_path} - #{url}"
         begin
           html_source = open(url+'&contentMode=1').read 
           open(html_path,'w'){|f| f.write(html_source)} 
