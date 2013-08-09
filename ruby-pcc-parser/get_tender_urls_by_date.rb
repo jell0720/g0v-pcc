@@ -40,7 +40,7 @@ def get_daily_tender_urls(date)
   puts "max_page: #{max_page.to_i}"
   if max_page && max_page > 1
     (2..max_page).each do |page_number|
-      sleep rand(3)+rand(10)/10.0
+      sleep 10+rand(5)
       mechanize.get("http://web.pcc.gov.tw/tps/pss/tender\.do\?searchMode=common&searchType=advance&searchTarget=ATM&method=search&isSpdt=&pageIndex=#{page_number}")
       puts "got page: #{page_number}/#{max_page}"
 
@@ -49,6 +49,8 @@ def get_daily_tender_urls(date)
           tender_urls << link.href
         end
       end
+      tender_urls.uniq!
+      puts "取得數量: #{tender_urls.length}"
     end
   end
 
@@ -59,7 +61,7 @@ def get_daily_tender_urls(date)
   }
   
   if tender_urls.length != tender_url_count
-    raise "取得決標資料數量與網站描述不符"
+    raise "取得決標資料數量與網站描述不符, 取得數量#{tender_urls.length}, 網站描述數量 #{tender_url_count}"
   end
 
   open(File.join('tender-urls', "#{date.strftime('%Y-%m-%d')}.json"),'w') do 

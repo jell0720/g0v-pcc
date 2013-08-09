@@ -102,7 +102,7 @@ Dir.glob(ARGV[0]) do |source_path|
     end
 
   end
-
+  puts JSON.pretty_generate(json)
   json["決標品項"]["品項"] =  json["決標品項"]["品項"].map{|x,y| y}
   json["決標品項"]["品項"].each do |x|
     x["得標廠商"] = x["得標廠商"].map{|x,y| y}  if x["得標廠商"]
@@ -118,7 +118,6 @@ Dir.glob(ARGV[0]) do |source_path|
 
   procurement_data = json["採購資料"] || json["已公告資料"]
   json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path)}&tenderCaseNo=#{procurement_data['標案案號']}"
-  #puts JSON.pretty_generate(json)
   FileUtils.mkdir_p(File.dirname(result_file))
   open(result_file,'w'){|f| f.write(JSON.pretty_generate(json)) }
 end

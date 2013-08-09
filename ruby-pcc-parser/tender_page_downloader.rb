@@ -13,10 +13,11 @@ Dir.glob('tender-urls/*.json').sort.reverse.each do |path|
 
   urls = JSON.load(open(path))
   urls.each_with_index do |url, index|
-    uri=URI.parse(url)
-    params = CGI.parse(uri.query)
+    #uri=URI.parse(url)
+    #params = CGI.parse(uri.query)
+    params =  url.match(/pkAtmMain=(?<pkAtmMain>[^&]+)&tenderCaseNo=(?<tenderCaseNo>.*$)/)
     if params["pkAtmMain"]
-      html_path = File.join(html_dir, "#{params["pkAtmMain"].first}-#{params["tenderCaseNo"].first}") 
+      html_path = File.join(html_dir, "#{params["pkAtmMain"]}-#{params["tenderCaseNo"]}") 
       if !File.exists? html_path
         puts "get: #{date} - #{index+1}/#{urls.length} - #{html_path} - #{url}"
         begin
