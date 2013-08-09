@@ -15,6 +15,7 @@ def get_daily_tender_urls(date)
   tender_urls = []
   tender_url_count = 0
   tender_url_patten      = Regexp.new('main/pms/tps/atm/atmAwardAction.do\?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=')
+  tender_url_patten2      = Regexp.new('main/pms/tps/atm/atmNonAwardAction.do\?searchMode=common&method=nonAwardContentForPublic&pkAtmMain=')
   tender_list_url_patten = Regexp.new('tender\.do\?searchMode=common&searchType=advance&searchTarget=ATM&method=search&isSpdt=&pageIndex=(\d+)')
   mechanize.get('http://web.pcc.gov.tw/tps/pss/tender.do?method=goSearch&searchMode=common&searchType=advance&searchTarget=ATM') do |page|
     puts "start search"
@@ -27,7 +28,7 @@ def get_daily_tender_urls(date)
     tender_url_count = result_page.search(".T11b").text.to_i
     urls =  result_page.links.map(&:href)
     max_page = urls.inject([]){ |result, x| 
-      if x =~ tender_url_patten
+      if x =~ tender_url_patten || x =~ tender_url_patten2
         tender_urls << x
       elsif x =~ tender_list_url_patten
         result << $1.to_i
@@ -38,6 +39,9 @@ def get_daily_tender_urls(date)
   end
 
   puts "max_page: #{max_page.to_i}"
+  tender_urls.uniq!
+  puts "取得數量: #{tender_urls.length}"
+
   if max_page && max_page > 1
     (2..max_page).each do |page_number|
       sleep 10+rand(5)
@@ -45,7 +49,7 @@ def get_daily_tender_urls(date)
       puts "got page: #{page_number}/#{max_page}"
 
       mechanize.current_page.links.each do |link|
-        if link.href =~ tender_url_patten
+        if x =~ tender_url_patten || x =~ tender_url_patten2
           tender_urls << link.href
         end
       end
