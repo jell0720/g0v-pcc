@@ -49,7 +49,7 @@ def get_daily_tender_urls(date)
       puts "got page: #{page_number}/#{max_page}"
 
       mechanize.current_page.links.each do |link|
-        if x =~ tender_url_patten || x =~ tender_url_patten2
+        if link.href =~ tender_url_patten || link.href =~ tender_url_patten2
           tender_urls << link.href
         end
       end

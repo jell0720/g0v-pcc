@@ -57,6 +57,10 @@ def parse_inner_table(table)
   json
 end
 
+def wrong_data_log(log)
+  open('wrong_data_log','a'){|f| f.write(log)}
+end
+
 Dir.glob(ARGV[0]) do |source_path|
   result_file = File.join('tenders-json', "#{source_path}.json")
   next if File.exists?(result_file)
@@ -102,7 +106,8 @@ Dir.glob(ARGV[0]) do |source_path|
     end
 
   end
-  puts JSON.pretty_generate(json)
+  begin 
+  #puts JSON.pretty_generate(json)
   json["決標品項"]["品項"] =  json["決標品項"]["品項"].map{|x,y| y}
   json["決標品項"]["品項"].each do |x|
     x["得標廠商"] = x["得標廠商"].map{|x,y| y}  if x["得標廠商"]
@@ -117,7 +122,11 @@ Dir.glob(ARGV[0]) do |source_path|
 
 
   procurement_data = json["採購資料"] || json["已公告資料"]
-  json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path)}&tenderCaseNo=#{procurement_data['標案案號']}"
+  json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path).split(/-/).first}&tenderCaseNo=#{procurement_data['標案案號']}"
   FileUtils.mkdir_p(File.dirname(result_file))
   open(result_file,'w'){|f| f.write(JSON.pretty_generate(json)) }
+  rescue => e
+  wrong_data_log("#{source_path}\n#{e.message}\n")
+
+  end
 end
