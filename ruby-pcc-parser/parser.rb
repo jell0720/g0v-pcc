@@ -25,7 +25,7 @@ def parse_inner_table(table)
     tr_number +=1
     th =t(tr.css("th"))
     td =t(tr.css("td").first)
- 
+
     current_json=json
     keys.each do |k|
       current_json[k] ||= {}
@@ -41,13 +41,13 @@ def parse_inner_table(table)
       end
       next
     end
-    
+
     new_item_start =( th.match /第(?<index>\d+)品項/) 
     if new_item_start && td == ''
       keys = ['品項', new_item_start[:index]]
       next
     end
-    
+
     current_json[th] = if th =~ /金額/
                          td.gsub(/,/,'').to_i
                        else
@@ -55,6 +55,18 @@ def parse_inner_table(table)
                        end
   end
   json
+end
+
+def parse_judge_table(table)
+  judges = []
+  table.css('tr')[1..-1].map do |tr|
+    {
+      "出席會議" => t(tr.css("td")[1]),
+      "姓名" => t(tr.css("td")[2]),
+      "職業" => t(tr.css("td")[3]),
+    }
+
+  end
 end
 
 def wrong_data_log(log)
@@ -93,7 +105,12 @@ Dir.glob(ARGV[0]) do |source_path|
       key=t(tr)
       keys.push key
     elsif tr.css('table').length > 0
-      current_json.merge! parse_inner_table( tr.css('table'))
+      th = t(tr.xpath("th"))
+      if th =~ /評選委員/
+        current_json[th] = parse_judge_table( tr.css('table'))
+      else
+        current_json.merge! parse_inner_table( tr.css('table'))
+      end
     else
       th = t(tr.xpath("th"))
       if th != ''
@@ -106,27 +123,29 @@ Dir.glob(ARGV[0]) do |source_path|
     end
 
   end
+
   begin 
-  #puts JSON.pretty_generate(json)
-  json["決標品項"]["品項"] =  json["決標品項"]["品項"].map{|x,y| y}
-  json["決標品項"]["品項"].each do |x|
-    x["得標廠商"] = x["得標廠商"].map{|x,y| y}  if x["得標廠商"]
-    x["未得標廠商"] = x["未得標廠商"].map{|x,y| y} if x["未得標廠商"]
-  end
-  json["投標廠商"]["投標廠商"] =  json["投標廠商"]["投標廠商"].map{|x,y| y}
-  y,m,d = json["決標資料"]["決標公告日期"].split(/\//)
-  json["決標資料"]["決標公告日期"] = "#{1911+y.to_i}/#{m}/#{d}"
+    #puts JSON.pretty_generate(json)
+    json["決標品項"]["品項"] =  json["決標品項"]["品項"].map{|x,y| y}
+    json["決標品項"]["品項"].each do |x|
+      x["得標廠商"] = x["得標廠商"].map{|x,y| y}  if x["得標廠商"]
+      x["未得標廠商"] = x["未得標廠商"].map{|x,y| y} if x["未得標廠商"]
+    end
+    json["投標廠商"]["投標廠商"] =  json["投標廠商"]["投標廠商"].map{|x,y| y}
+    y,m,d = json["決標資料"]["決標公告日期"].split(/\//)
+    json["決標資料"]["決標公告日期"] = "#{1911+y.to_i}/#{m}/#{d}"
 
-  y,m,d = json["決標資料"]["決標日期"].split(/\//)
-  json["決標資料"]["決標日期"] = "#{1911+y.to_i}/#{m}/#{d}"
+    y,m,d = json["決標資料"]["決標日期"].split(/\//)
+    json["決標資料"]["決標日期"] = "#{1911+y.to_i}/#{m}/#{d}"
 
 
-  procurement_data = json["採購資料"] || json["已公告資料"]
-  json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path).split(/-/).first}&tenderCaseNo=#{procurement_data['標案案號']}"
-  FileUtils.mkdir_p(File.dirname(result_file))
-  open(result_file,'w'){|f| f.write(JSON.pretty_generate(json)) }
+    procurement_data = json["採購資料"] || json["已公告資料"]
+    json["url"]="http://web.pcc.gov.tw/tps/main/pms/tps/atm/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=#{File.basename(source_path).split(/-/).first}&tenderCaseNo=#{procurement_data['標案案號']}"
+
+    FileUtils.mkdir_p(File.dirname(result_file))
+    open(result_file,'w'){|f| f.write(JSON.pretty_generate(json)) }
   rescue => e
-  wrong_data_log("#{source_path}\n#{e.message}\n")
+    wrong_data_log("#{source_path}\n#{e.message}\n")
 
   end
 end
